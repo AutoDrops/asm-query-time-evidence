@@ -1,0 +1,100 @@
+{
+ "excluded": 160,
+ "res": {
+  "knowledge-update": {
+   "pool": 0
+  },
+  "temporal-reasoning": {
+   "pool": 101,
+   "recall": {
+    "bm25@768": {
+     "latest": 0.663,
+     "all": 0.691
+    },
+    "recency@768": {
+     "latest": 0.723,
+     "all": 0.706
+    },
+    "bm25@1024": {
+     "latest": 0.703,
+     "all": 0.71
+    },
+    "recency@1024": {
+     "latest": 0.792,
+     "all": 0.75
+    }
+   },
+   "sample": [
+    "e4e14d04",
+    "d01c6aa8",
+    "gpt4_5438fa52",
+    "gpt4_65aabe59",
+    "0bb5a684",
+    "2a1811e2",
+    "0bc8ad93",
+    "gpt4_8c8961ae",
+    "c8090214",
+    "gpt4_78cf46a3",
+    "gpt4_4ef30696",
+    "gpt4_483dd43c",
+    "gpt4_7f6b06db",
+    "gpt4_a2d1d1f6",
+    "gpt4_c27434e8",
+    "gpt4_93f6379c",
+    "eac54add",
+    "gpt4_6dc9b45b",
+    "gpt4_b5700ca9",
+    "5e1b23de"
+   ],
+   "miss_latest": 4,
+   "miss_any": 6,
+   "recency_miss_latest": 3
+  },
+  "multi-session": {
+   "pool": 97,
+   "recall": {
+    "bm25@768": {
+     "latest": 0.546,
+     "all": 0.55
+    },
+    "recency@768": {
+     "latest": 0.608,
+     "all": 0.539
+    },
+    "bm25@1024": {
+     "latest": 0.608,
+     "all": 0.618
+    },
+    "recency@1024": {
+     "latest": 0.639,
+     "all": 0.605
+    }
+   },
+   "sample": [
+    "51c32626",
+    "4f54b7c9",
+    "a1cc6108",
+    "a9f6b44c",
+    "099778bb",
+    "1192316e",
+    "0a995998",
+    "edced276",
+    "4bc144e2",
+    "bf659f65",
+    "a08a253f",
+    "92a0aa75",
+    "d851d5ba",
+    "gpt4_15e38248",
+    "gpt4_372c3eed",
+    "ef9cf60a",
+    "5a7937c8",
+    "b3c15d39",
+    "gpt4_31ff4165",
+    "157a136e"
+   ],
+   "miss_latest": 9,
+   "miss_any": 15,
+   "recency_miss_latest": 7
+  }
+ }
+}

@@ -1,0 +1,7298 @@
+[
+ {
+  "qid": "5025383b",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography.",
+  "tok": 2790,
+  "usd": 0.00025846,
+  "ctx_tok": 2990
+ },
+ {
+  "qid": "5025383b",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography.",
+  "tok": 3823,
+  "usd": 0.00040617,
+  "ctx_tok": 934
+ },
+ {
+  "qid": "5025383b",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography.",
+  "tok": 4080,
+  "usd": 0.00042929999999999997,
+  "ctx_tok": 1190
+ },
+ {
+  "qid": "5025383b",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography.",
+  "tok": 1762,
+  "usd": 0.00019308,
+  "ctx_tok": 830
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "You will save approximately $30\u2013$40 by taking the train instead of a taxi. A taxi costs around $60, while the train costs around $20\u2013$30.",
+  "tok": 3137,
+  "usd": 0.00030165,
+  "ctx_tok": 2973
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "You will save roughly $30\u2013$50 by taking the train from the airport to your hotel instead of a taxi.",
+  "tok": 4509,
+  "usd": 0.00050747,
+  "ctx_tok": 982
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "You will save roughly $30\u2013$50 by taking the train instead of a taxi.",
+  "tok": 4743,
+  "usd": 0.0005257700000000001,
+  "ctx_tok": 1232
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "You will save approximately $50 by taking the train instead of a taxi, as the train costs around $10 compared to the taxi's $60.",
+  "tok": 2804,
+  "usd": 0.0004428,
+  "ctx_tok": 1014
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The total cost is $50.  \n- New food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (one pack)  \n- Flea and tick collar: $20  \n\n$15 + $5 + $10 + $20 = $50.",
+  "tok": 3246,
+  "usd": 0.00032434,
+  "ctx_tok": 2994
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The new food bowl cost $15, the measuring cup cost $5, the dental chews are $10, and the flea and tick collar cost $20. Adding these together: $15 + $5 + $10 + $20 = $50.  \n\nAnswer: $50",
+  "tok": 4323,
+  "usd": 0.00045117,
+  "ctx_tok": 839
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The new food bowl cost $15, the measuring cup cost $5, the dental chews are $10 per pack (recurring), and the flea and tick collar was $20 (one-time). Adding these together: $15 + $5 + $10 + $20 = $50.\n\nAnswer: $50",
+  "tok": 4633,
+  "usd": 0.00048229,
+  "ctx_tok": 1097
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The total cost of the new food bowl ($15), measuring cup ($5), dental chews ($10), and flea and tick collar ($20) is $50.",
+  "tok": 2626,
+  "usd": 0.000407,
+  "ctx_tok": 964
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "4",
+  "answer": "unknown",
+  "tok": 2868,
+  "usd": 0.00025904,
+  "ctx_tok": 2966
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "4",
+  "answer": "unknown",
+  "tok": 3801,
+  "usd": 0.00038257000000000005,
+  "ctx_tok": 895
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "4",
+  "answer": "You attended one art-related event in the past month: the \"Women in Art\" exhibition on February 10th.",
+  "tok": 4046,
+  "usd": 0.00041566,
+  "ctx_tok": 1145
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "4",
+  "answer": "unknown",
+  "tok": 2253,
+  "usd": 0.00038493,
+  "ctx_tok": 1022
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "1,998",
+  "answer": "unknown",
+  "tok": 2837,
+  "usd": 0.00025625,
+  "ctx_tok": 2987
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "1,998",
+  "answer": "1,456 views (TikTok) + 542 views (YouTube) = 1,998 views.  \nThe total number of views on your most popular videos is 1,998.",
+  "tok": 3772,
+  "usd": 0.00039054,
+  "ctx_tok": 837
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "1,998",
+  "answer": "1,456 (TikTok) + 542 (YouTube) = 1,998 views.",
+  "tok": 4013,
+  "usd": 0.00040257,
+  "ctx_tok": 1100
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "1,998",
+  "answer": "unknown",
+  "tok": 1956,
+  "usd": 0.00026619999999999997,
+  "ctx_tok": 918
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "190",
+  "answer": "You are on page 250 of \"The Nightingale,\" which has 440 pages.  \n440 - 250 = 190 pages left.  \n\nAnswer: 190 pages",
+  "tok": 3280,
+  "usd": 0.00031774,
+  "ctx_tok": 2977
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "190",
+  "answer": "You have 190 pages left to read in *The Nightingale*.",
+  "tok": 4333,
+  "usd": 0.00044149,
+  "ctx_tok": 870
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "190",
+  "answer": "You have 190 pages left to read in *The Nightingale*.",
+  "tok": 4646,
+  "usd": 0.00046966,
+  "ctx_tok": 1131
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "190",
+  "answer": "unknown",
+  "tok": 2232,
+  "usd": 0.0002938,
+  "ctx_tok": 882
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "Your undergraduate GPA was 3.86 out of 4.0, and your graduate GPA was 3.8 out of 4.0.",
+  "tok": 2842,
+  "usd": 0.00027096,
+  "ctx_tok": 2999
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "The average GPA of your undergraduate and graduate studies is 3.83. This is calculated from a GPA of 3.86 in your undergraduate studies at the University of Mumbai and a GPA of 3.8 in your Master's in Data Science at the University of Illinois at Urbana-Champaign.",
+  "tok": 3933,
+  "usd": 0.00043170999999999997,
+  "ctx_tok": 893
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "The user's undergraduate GPA is not directly provided, but they mentioned that their overall percentage of 83% from the University of Mumbai is equivalent to a GPA of 3.86 out of 4.0. Their graduate GPA from the University of Illinois at Urbana-Champaign is 3.8 out of 4.0. Therefore, the average of ",
+  "tok": 4206,
+  "usd": 0.00047559999999999996,
+  "ctx_tok": 1142
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "The average GPA of your undergraduate and graduate studies is 3.83.",
+  "tok": 2141,
+  "usd": 0.00028929,
+  "ctx_tok": 893
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "You spent $75 at SaveMart last Thursday and earned 1% cashback, which amounts to $0.75.",
+  "tok": 3233,
+  "usd": 0.00030385,
+  "ctx_tok": 2998
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "$0.75",
+  "tok": 4295,
+  "usd": 0.00040954999999999995,
+  "ctx_tok": 815
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "$0.75",
+  "tok": 4618,
+  "usd": 0.00043861999999999997,
+  "ctx_tok": 1071
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "$0.75",
+  "tok": 2592,
+  "usd": 0.00036392,
+  "ctx_tok": 934
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown",
+  "tok": 2914,
+  "usd": 0.00026318,
+  "ctx_tok": 2996
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown",
+  "tok": 3844,
+  "usd": 0.00038,
+  "ctx_tok": 857
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown",
+  "tok": 4131,
+  "usd": 0.00040583000000000004,
+  "ctx_tok": 1120
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "You currently own 1 musical instrument.",
+  "tok": 1748,
+  "usd": 0.00019136,
+  "ctx_tok": 804
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "On Fridays, you wake up at 6:00 AM, while on other weekdays, you wake up at 6:30 AM. Therefore, you wake up 30 minutes earlier on Fridays compared to other weekdays.",
+  "tok": 3067,
+  "usd": 0.00029811,
+  "ctx_tok": 2986
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "You wake up 30 minutes earlier on Fridays compared to other weekdays.",
+  "tok": 3948,
+  "usd": 0.00038614,
+  "ctx_tok": 812
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "You wake up 30 minutes earlier on Fridays compared to other weekdays.",
+  "tok": 4245,
+  "usd": 0.00041286999999999997,
+  "ctx_tok": 1074
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "You wake up 30 minutes earlier on Fridays compared to other weekdays. (6:00 AM on Fridays vs. 6:30 AM on other weekdays)",
+  "tok": 1814,
+  "usd": 0.00020696,
+  "ctx_tok": 801
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 3050,
+  "usd": 0.00028416,
+  "ctx_tok": 2971
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 4146,
+  "usd": 0.0004357,
+  "ctx_tok": 886
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 4370,
+  "usd": 0.00045586,
+  "ctx_tok": 1144
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 2539,
+  "usd": 0.00042079,
+  "ctx_tok": 1017
+ },
+ {
+  "qid": "e831120c",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "It took you two weeks to watch all the Marvel Cinematic Universe movies and about one and a half weeks to watch the main Star Wars films.",
+  "tok": 4267,
+  "usd": 0.00039783,
+  "ctx_tok": 2974
+ },
+ {
+  "qid": "e831120c",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "It took you two weeks to watch all the Marvel Cinematic Universe movies and one and a half weeks to watch the main Star Wars films. In total, it took you 3.5 weeks.",
+  "tok": 5511,
+  "usd": 0.00053555,
+  "ctx_tok": 815
+ },
+ {
+  "qid": "e831120c",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "It took you two weeks to watch all the Marvel Cinematic Universe movies and a week and a half to watch the main Star Wars films.",
+  "tok": 5895,
+  "usd": 0.00056459,
+  "ctx_tok": 1078
+ },
+ {
+  "qid": "e831120c",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "You watched the 22 Marvel Cinematic Universe movies in 2 weeks and the main Star Wars films (along with Rogue One and Solo) in 1.5 weeks. Therefore, it took you a total of 3.5 weeks.",
+  "tok": 3025,
+  "usd": 0.00044521000000000003,
+  "ctx_tok": 978
+ },
+ {
+  "qid": "6456829e",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants.",
+  "tok": 3039,
+  "usd": 0.00027995,
+  "ctx_tok": 2983
+ },
+ {
+  "qid": "6456829e",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants.",
+  "tok": 3953,
+  "usd": 0.00037463,
+  "ctx_tok": 803
+ },
+ {
+  "qid": "6456829e",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants.",
+  "tok": 4248,
+  "usd": 0.00040118,
+  "ctx_tok": 1057
+ },
+ {
+  "qid": "6456829e",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants. The number of cucumber plants initially planted is unknown.",
+  "tok": 2459,
+  "usd": 0.00038691,
+  "ctx_tok": 1002
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 2502,
+  "usd": 0.00022702,
+  "ctx_tok": 2971
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 3346,
+  "usd": 0.00032552,
+  "ctx_tok": 838
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 3471,
+  "usd": 0.00033677,
+  "ctx_tok": 1094
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 1894,
+  "usd": 0.00025509999999999997,
+  "ctx_tok": 923
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced or fixed 3 kitchen items: the toaster (replaced with a toaster oven), the kitchen shelves (fixed), and added a new kitchen mat.",
+  "tok": 2918,
+  "usd": 0.0002778,
+  "ctx_tok": 2974
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced or fixed 2 kitchen items: the toaster (replaced with a toaster oven) and the kitchen shelves (repaired).",
+  "tok": 3801,
+  "usd": 0.00038349,
+  "ctx_tok": 861
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced or fixed two kitchen items: you replaced your old toaster with a toaster oven and fixed the kitchen shelves.  \nAnswer: 2",
+  "tok": 4094,
+  "usd": 0.00041032,
+  "ctx_tok": 1116
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced or fixed one kitchen item: the toaster oven (upgraded).",
+  "tok": 2231,
+  "usd": 0.00037283,
+  "ctx_tok": 1014
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "You got 3 lunch meals from the chicken fajitas and 5 lunch meals from the lentil soup, totaling 8 lunch meals.",
+  "tok": 3116,
+  "usd": 0.00029424,
+  "ctx_tok": 2987
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "The total number of lunch meals obtained from both the chicken fajitas and the lentil soup is eight.",
+  "tok": 4122,
+  "usd": 0.00041329999999999996,
+  "ctx_tok": 850
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "The total number of lunch meals obtained from both the chicken fajitas and the lentil soup is eight.",
+  "tok": 4380,
+  "usd": 0.00043652,
+  "ctx_tok": 1106
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "8",
+  "tok": 2452,
+  "usd": 0.00037386,
+  "ctx_tok": 979
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$5,150",
+  "answer": "unknown",
+  "tok": 2813,
+  "usd": 0.00025409,
+  "ctx_tok": 2993
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$5,150",
+  "answer": "unknown",
+  "tok": 3873,
+  "usd": 0.00039457,
+  "ctx_tok": 902
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$5,150",
+  "answer": "unknown",
+  "tok": 4022,
+  "usd": 0.00040797999999999995,
+  "ctx_tok": 1162
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5,150",
+  "answer": "The vintage diamond necklace is valued at $5,000, and the antique vanity, restored and with added value, was purchased for $150. Given the restoration and market strategy, the minimum amount you could reasonably expect from selling both items would be at least $5,150, assuming the vanity sells for n",
+  "tok": 2533,
+  "usd": 0.00044003,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "720133ac",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$75",
+  "answer": "unknown",
+  "tok": 2962,
+  "usd": 0.0002675,
+  "ctx_tok": 2961
+ },
+ {
+  "qid": "720133ac",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$75",
+  "answer": "The total cost of Lola's vet visit and flea medication is $75.",
+  "tok": 4050,
+  "usd": 0.00041878,
+  "ctx_tok": 886
+ },
+ {
+  "qid": "720133ac",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$75",
+  "answer": "The total cost of Lola's vet visit and flea medication is $75.",
+  "tok": 4262,
+  "usd": 0.00043786,
+  "ctx_tok": 1146
+ },
+ {
+  "qid": "720133ac",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$75",
+  "answer": "$75",
+  "tok": 1920,
+  "usd": 0.00020592,
+  "ctx_tok": 807
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as 500 points (which you have reached) translate to $5 off.",
+  "tok": 3166,
+  "usd": 0.00030058,
+  "ctx_tok": 2993
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as 500 points translate to $5 off (every 100 points equals $1 discount).",
+  "tok": 4317,
+  "usd": 0.00046259,
+  "ctx_tok": 921
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as you have 500 points and every 100 points translate to a $1 discount.",
+  "tok": 4603,
+  "usd": 0.00048786999999999995,
+  "ctx_tok": 1175
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as you have reached the discount threshold of 500 points, and the discount rate is $5 per 500 points.",
+  "tok": 2518,
+  "usd": 0.00039222,
+  "ctx_tok": 965
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You gained approximately 100 followers in two weeks, increasing from 250 to 350 followers.",
+  "tok": 2794,
+  "usd": 0.00026342,
+  "ctx_tok": 2962
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "The approximate increase in Instagram followers you experienced in two weeks was 100.",
+  "tok": 3666,
+  "usd": 0.00036122,
+  "ctx_tok": 828
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "The approximate increase in Instagram followers you experienced in two weeks was 100, going from 250 to around 350 followers.",
+  "tok": 3872,
+  "usd": 0.00038619999999999995,
+  "ctx_tok": 1081
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "Approximately 100 followers.",
+  "tok": 1866,
+  "usd": 0.00023188,
+  "ctx_tok": 855
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "The car cover cost $120, and the detailing spray cost $20. The total cost is $140.",
+  "tok": 2943,
+  "usd": 0.00027775,
+  "ctx_tok": 2995
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "The total cost of the car cover and detailing spray you purchased is $140.",
+  "tok": 3882,
+  "usd": 0.00038158,
+  "ctx_tok": 828
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "The total cost of the car cover and detailing spray you purchased is $140.",
+  "tok": 4192,
+  "usd": 0.00040948,
+  "ctx_tok": 1083
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "$140",
+  "tok": 2363,
+  "usd": 0.00035941,
+  "ctx_tok": 985
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed 1 property (the 3-bedroom townhouse in the Brookside neighborhood) before making an offer.",
+  "tok": 2711,
+  "usd": 0.00025503,
+  "ctx_tok": 2958
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed only one property\u2014the 3-bedroom townhouse in the Brookside neighborhood\u2014before making your offer.",
+  "tok": 3745,
+  "usd": 0.00037845,
+  "ctx_tok": 847
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed one property before making your offer on the townhouse in the Brookside neighborhood.",
+  "tok": 3880,
+  "usd": 0.00038876,
+  "ctx_tok": 1100
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed 2 properties before making an offer on the townhouse in the Brookside neighborhood: the Cedar Creek property (Feb 1) and the Brookside townhouse (Feb 22).",
+  "tok": 2550,
+  "usd": 0.00040706,
+  "ctx_tok": 1013
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "unknown",
+  "tok": 3087,
+  "usd": 0.00027875,
+  "ctx_tok": 2979
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "Fifteen hours",
+  "tok": 4066,
+  "usd": 0.00040135999999999997,
+  "ctx_tok": 860
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "15 hours",
+  "tok": 4350,
+  "usd": 0.00042646,
+  "ctx_tok": 1118
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "unknown",
+  "tok": 2425,
+  "usd": 0.00039811,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "140 hours",
+  "answer": "unknown",
+  "tok": 3006,
+  "usd": 0.00027146,
+  "ctx_tok": 2994
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "140 hours",
+  "answer": "155 hours",
+  "tok": 4208,
+  "usd": 0.00043944000000000003,
+  "ctx_tok": 897
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "140 hours",
+  "answer": "155 hours",
+  "tok": 4401,
+  "usd": 0.00045681,
+  "ctx_tok": 1150
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "140 hours",
+  "answer": "140 hours",
+  "tok": 2599,
+  "usd": 0.00038939,
+  "ctx_tok": 987
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "Based on the memory, you mentioned scoring 3 goals and having 2 assists in the recreational indoor soccer league. Therefore, the total number of goals and assists is 5.",
+  "tok": 2995,
+  "usd": 0.00028657,
+  "ctx_tok": 2927
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "The total number of goals and assists you have in the recreational indoor soccer league is 5.",
+  "tok": 4003,
+  "usd": 0.00038833,
+  "ctx_tok": 816
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "You have scored 3 goals and provided 2 assists in the recreational indoor soccer league. Therefore, your total number of goals and assists is 5.",
+  "tok": 4118,
+  "usd": 0.00040419999999999996,
+  "ctx_tok": 1070
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "You have scored 3 goals and made 2 assists in the recreational indoor soccer league, for a total of 5 goal contributions.",
+  "tok": 2594,
+  "usd": 0.000394,
+  "ctx_tok": 969
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "You bought the backpack on 1/15 and it arrived on 1/20. Therefore, it took 5 days for your laptop backpack to arrive.",
+  "tok": 3067,
+  "usd": 0.00029213,
+  "ctx_tok": 2993
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "5 days",
+  "tok": 4019,
+  "usd": 0.00038333000000000003,
+  "ctx_tok": 818
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "5 days",
+  "tok": 4224,
+  "usd": 0.00040178,
+  "ctx_tok": 1078
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "5 days",
+  "tok": 1961,
+  "usd": 0.00020731,
+  "ctx_tok": 807
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$185",
+  "answer": "unknown",
+  "tok": 3018,
+  "usd": 0.00027254,
+  "ctx_tok": 2990
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$185",
+  "answer": "$40",
+  "tok": 4207,
+  "usd": 0.00042003000000000006,
+  "ctx_tok": 872
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$185",
+  "answer": "$40",
+  "tok": 4381,
+  "usd": 0.00043569,
+  "ctx_tok": 1128
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$185",
+  "answer": "$40",
+  "tok": 2361,
+  "usd": 0.00028103,
+  "ctx_tok": 853
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "You spent 8 days in Japan (April 15th to 22nd) and 4 days in Chicago during your last trip. The total is 12 days.",
+  "tok": 3266,
+  "usd": 0.00031188,
+  "ctx_tok": 2967
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "11 days",
+  "tok": 4372,
+  "usd": 0.00043212,
+  "ctx_tok": 848
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "You spent 7 days in Japan (April 15th to 22nd) and 4 days in Chicago, for a total of 11 days combined.",
+  "tok": 4704,
+  "usd": 0.00047718,
+  "ctx_tok": 1115
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "unknown",
+  "tok": 2668,
+  "usd": 0.00039422000000000003,
+  "ctx_tok": 999
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 2924,
+  "usd": 0.00026408,
+  "ctx_tok": 2984
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 3947,
+  "usd": 0.00039203,
+  "ctx_tok": 873
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 4258,
+  "usd": 0.00042002,
+  "ctx_tok": 1129
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 2439,
+  "usd": 0.00038373,
+  "ctx_tok": 1011
+ },
+ {
+  "qid": "60159905",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "Based on the provided memory, you attended at least three dinner parties in the past month: one at Sarah's place, one at Alex's place, and one at Mike's place.",
+  "tok": 3230,
+  "usd": 0.00030818,
+  "ctx_tok": 2959
+ },
+ {
+  "qid": "60159905",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "You have attended at least three dinner parties in the past month: an Italian feast at Sarah's, a potluck at Alex's, and a BBQ at Mike's.",
+  "tok": 4309,
+  "usd": 0.00044669,
+  "ctx_tok": 883
+ },
+ {
+  "qid": "60159905",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "You have attended at least three dinner parties in the past month: one at Sarah's place with an Italian feast, one at Alex's place which was a potluck, and one at Mike's place which was a BBQ.",
+  "tok": 4597,
+  "usd": 0.00047767,
+  "ctx_tok": 1134
+ },
+ {
+  "qid": "60159905",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "3",
+  "tok": 2497,
+  "usd": 0.00037883000000000003,
+  "ctx_tok": 998
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You currently have one magazine subscription: The New Yorker. You canceled your Forbes subscription in early March.",
+  "tok": 2606,
+  "usd": 0.0002442,
+  "ctx_tok": 2991
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You currently have one magazine subscription, which is to The New Yorker.",
+  "tok": 3475,
+  "usd": 0.00035185,
+  "ctx_tok": 875
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You currently have one magazine subscription, which is to The New Yorker.",
+  "tok": 3675,
+  "usd": 0.00036985,
+  "ctx_tok": 1124
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You currently have 1 magazine subscription.",
+  "tok": 1798,
+  "usd": 0.00023082000000000002,
+  "ctx_tok": 880
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3,000 miles",
+  "answer": "unknown",
+  "tok": 3138,
+  "usd": 0.00028334,
+  "ctx_tok": 2984
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3,000 miles",
+  "answer": "The total distance covered in your four road trips is 3,000 miles.",
+  "tok": 4125,
+  "usd": 0.00042415,
+  "ctx_tok": 866
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3,000 miles",
+  "answer": "The total distance covered in your four road trips is 3,000 miles. This includes the 1,200-mile trip to Yellowstone National Park and the previous three trips totaling 1,800 miles.",
+  "tok": 4471,
+  "usd": 0.00046863,
+  "ctx_tok": 1129
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3,000 miles",
+  "answer": "The total distance covered in your four road trips is 3,000 miles.",
+  "tok": 2304,
+  "usd": 0.00037526000000000004,
+  "ctx_tok": 972
+ },
+ {
+  "qid": "0100672e",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$12",
+  "answer": "You spent $60 on 5 coffee mugs for your coworkers.  \n$60 \u00f7 5 = $12 per mug.  \n\nAnswer: $12",
+  "tok": 3108,
+  "usd": 0.00029674,
+  "ctx_tok": 2993
+ },
+ {
+  "qid": "0100672e",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$12",
+  "answer": "You spent approximately $12 on each coffee mug for your coworkers.",
+  "tok": 4087,
+  "usd": 0.00042119,
+  "ctx_tok": 873
+ },
+ {
+  "qid": "0100672e",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$12",
+  "answer": "You spent approximately $12 on each coffee mug for your coworkers.",
+  "tok": 4407,
+  "usd": 0.00044999000000000005,
+  "ctx_tok": 1138
+ },
+ {
+  "qid": "0100672e",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$12",
+  "answer": "You spent $12 on each coffee mug for your coworkers.",
+  "tok": 2402,
+  "usd": 0.00039558,
+  "ctx_tok": 1007
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 3087,
+  "usd": 0.00027875,
+  "ctx_tok": 2998
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 4244,
+  "usd": 0.00044636000000000003,
+  "ctx_tok": 943
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 4566,
+  "usd": 0.00047534,
+  "ctx_tok": 1190
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 2528,
+  "usd": 0.00039542000000000006,
+  "ctx_tok": 1016
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "Based on the information provided, you have used two different types of food delivery services recently: Domino's Pizza and Fresh Fusion.",
+  "tok": 2825,
+  "usd": 0.00026621,
+  "ctx_tok": 2974
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You have used two different types of food delivery services recently: Domino's Pizza and Fresh Fusion.",
+  "tok": 3871,
+  "usd": 0.00039531,
+  "ctx_tok": 877
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "2",
+  "tok": 4036,
+  "usd": 0.00040187999999999997,
+  "ctx_tok": 1136
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You have used two food delivery services recently: Domino's Pizza and Fresh Fusion.",
+  "tok": 2501,
+  "usd": 0.00038700999999999997,
+  "ctx_tok": 1021
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride cost $12, and the daily train fare is $6. Therefore, the taxi ride was $6 more expensive than the train fare.",
+  "tok": 2952,
+  "usd": 0.00028086,
+  "ctx_tok": 2999
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride was $6 more expensive than the train fare.",
+  "tok": 3991,
+  "usd": 0.00040151,
+  "ctx_tok": 846
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride was $6 more expensive than the train fare.",
+  "tok": 4174,
+  "usd": 0.00041798,
+  "ctx_tok": 1109
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride cost $12, while the daily train fare is $6. Therefore, the taxi ride was $6 more expensive than the train fare.",
+  "tok": 2503,
+  "usd": 0.00038489,
+  "ctx_tok": 961
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 2966,
+  "usd": 0.00026786,
+  "ctx_tok": 2986
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 4064,
+  "usd": 0.00040992000000000003,
+  "ctx_tok": 913
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 4363,
+  "usd": 0.00043683000000000003,
+  "ctx_tok": 1168
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 2530,
+  "usd": 0.00039329999999999996,
+  "ctx_tok": 1025
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3 days",
+  "answer": "You attended a lecture on the 10th of April and a 2-day workshop on the 17th and 18th of April. This totals 3 days. \n\nAnswer: 3",
+  "tok": 2917,
+  "usd": 0.00028277,
+  "ctx_tok": 2997
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3 days",
+  "answer": "You spent three days attending workshops, lectures, and conferences in April.",
+  "tok": 3747,
+  "usd": 0.00036989,
+  "ctx_tok": 819
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3 days",
+  "answer": "You spent three days attending educational events in April: one day attending a lecture on sustainable development on April 10th, and two days participating in a workshop on standardization and normalization on April 17th and 18th.",
+  "tok": 4062,
+  "usd": 0.00041434,
+  "ctx_tok": 1088
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3 days",
+  "answer": "1",
+  "tok": 1926,
+  "usd": 0.00026442,
+  "ctx_tok": 932
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You acquired two pieces of jewelry in the last two months: a pair of emerald earrings from a flea market and a silver necklace with a small pendant.",
+  "tok": 2937,
+  "usd": 0.00027905,
+  "ctx_tok": 2966
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You acquired 2 pieces of jewelry in the last two months: a pair of emerald earrings and a silver necklace with a small pendant.",
+  "tok": 3994,
+  "usd": 0.00042018,
+  "ctx_tok": 889
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You acquired at least two pieces of jewelry in the last two months: a pair of emerald earrings and a silver necklace with a small pendant.",
+  "tok": 4161,
+  "usd": 0.00043567,
+  "ctx_tok": 1148
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You acquired 2 pieces of jewelry in the last two months: emerald earrings and a silver necklace.",
+  "tok": 2376,
+  "usd": 0.00036379999999999995,
+  "ctx_tok": 987
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17 days",
+  "answer": "unknown",
+  "tok": 2664,
+  "usd": 0.00024068,
+  "ctx_tok": 2999
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "17 days",
+  "answer": "You took a social media break for seven days in total.",
+  "tok": 3622,
+  "usd": 0.0003913,
+  "ctx_tok": 947
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "17 days",
+  "answer": "You took a social media break for seven days in total.",
+  "tok": 3850,
+  "usd": 0.00041182,
+  "ctx_tok": 1200
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17 days",
+  "answer": "unknown",
+  "tok": 2084,
+  "usd": 0.00034672,
+  "ctx_tok": 1019
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "Based on the information provided, the following babies were born to friends and family members in the last few months:\n\n1. Max, the son of cousin Rachel.\n2. Charlotte, the daughter of friends Mike and Emma.\n3. Jasper, the son of friend David.\n\nTherefore, three babies were born to friends and family",
+  "tok": 2931,
+  "usd": 0.00029691,
+  "ctx_tok": 3000
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "5",
+  "tok": 3944,
+  "usd": 0.00040372,
+  "ctx_tok": 892
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "5",
+  "tok": 4175,
+  "usd": 0.00042451,
+  "ctx_tok": 1148
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "5",
+  "tok": 2549,
+  "usd": 0.00041065000000000003,
+  "ctx_tok": 1016
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "unknown",
+  "tok": 2852,
+  "usd": 0.0002576,
+  "ctx_tok": 2976
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "You have attended two weddings this year.",
+  "tok": 3859,
+  "usd": 0.00038871,
+  "ctx_tok": 882
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "You have attended two weddings this year.",
+  "tok": 4104,
+  "usd": 0.00041076000000000003,
+  "ctx_tok": 1137
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "unknown",
+  "tok": 1974,
+  "usd": 0.00023792000000000003,
+  "ctx_tok": 873
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "TikTok",
+  "answer": "TikTok",
+  "tok": 2712,
+  "usd": 0.00024592,
+  "ctx_tok": 2991
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "TikTok",
+  "answer": "unknown",
+  "tok": 3701,
+  "usd": 0.00038093000000000003,
+  "ctx_tok": 899
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "TikTok",
+  "answer": "unknown",
+  "tok": 3929,
+  "usd": 0.00040145000000000003,
+  "ctx_tok": 1145
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "TikTok",
+  "answer": "Twitter",
+  "tok": 1882,
+  "usd": 0.00023193999999999998,
+  "ctx_tok": 870
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed one fun run in March due to work commitments\u2014the 5K fun run on March 26th.",
+  "tok": 2735,
+  "usd": 0.00025765,
+  "ctx_tok": 2986
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed one fun run in March due to work commitments, on March 5th.",
+  "tok": 3679,
+  "usd": 0.00036239,
+  "ctx_tok": 826
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed one fun run in March due to work commitments\u2014the one on March 5th.",
+  "tok": 3842,
+  "usd": 0.00037752,
+  "ctx_tok": 1071
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed 1 fun run in March due to work commitments.",
+  "tok": 2496,
+  "usd": 0.00040127999999999995,
+  "ctx_tok": 1019
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3",
+  "answer": "unknown",
+  "tok": 3095,
+  "usd": 0.00027947,
+  "ctx_tok": 3000
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3",
+  "answer": "unknown",
+  "tok": 4144,
+  "usd": 0.0004254,
+  "ctx_tok": 916
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3",
+  "answer": "unknown",
+  "tok": 4439,
+  "usd": 0.00045195,
+  "ctx_tok": 1168
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You have used 1 type of citrus fruit in your cocktail recipes: orange.",
+  "tok": 2431,
+  "usd": 0.00040969,
+  "ctx_tok": 1019
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You have been working on two projects simultaneously, excluding your thesis: the Data Mining project and the Database Systems project.",
+  "tok": 2636,
+  "usd": 0.00024828,
+  "ctx_tok": 2955
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You have been working on two projects simultaneously alongside your thesis: a Data Mining project and a Database Systems project. Therefore, excluding your thesis, you have been working on **2 projects**.",
+  "tok": 3685,
+  "usd": 0.00040617,
+  "ctx_tok": 932
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You have been working on two projects simultaneously alongside your thesis: a Data Mining project and a Database Systems project. Therefore, excluding your thesis, you have been working on **2 projects**.",
+  "tok": 3966,
+  "usd": 0.00043146000000000005,
+  "ctx_tok": 1190
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "2",
+  "tok": 2142,
+  "usd": 0.00031468,
+  "ctx_tok": 965
+ },
+ {
+  "qid": "129d1232",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "$5,250",
+  "tok": 2682,
+  "usd": 0.0002446,
+  "ctx_tok": 2997
+ },
+ {
+  "qid": "129d1232",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "You raised a total of $5,250 through the charity events you participated in.",
+  "tok": 3619,
+  "usd": 0.00036941000000000003,
+  "ctx_tok": 847
+ },
+ {
+  "qid": "129d1232",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "You raised a total of $5,250 through your participation in charity events. This includes $250 from the charity walk and $5,000 from the Bike-a-Thon for Cancer Research.",
+  "tok": 3893,
+  "usd": 0.00040603000000000004,
+  "ctx_tok": 1105
+ },
+ {
+  "qid": "129d1232",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "You raised a total of $5,250 through all the charity events you participated in. ($5,000 from the Bike-a-Thon and $250 from the charity walk.)",
+  "tok": 2327,
+  "usd": 0.00038975,
+  "ctx_tok": 1004
+ },
+ {
+  "qid": "73d42213",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "9:00 AM",
+  "answer": "unknown",
+  "tok": 3015,
+  "usd": 0.00027227,
+  "ctx_tok": 2990
+ },
+ {
+  "qid": "73d42213",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "9:00 AM",
+  "answer": "unknown",
+  "tok": 4122,
+  "usd": 0.00040042,
+  "ctx_tok": 849
+ },
+ {
+  "qid": "73d42213",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "9:00 AM",
+  "answer": "unknown",
+  "tok": 4325,
+  "usd": 0.00041869,
+  "ctx_tok": 1095
+ },
+ {
+  "qid": "73d42213",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "9:00 AM",
+  "answer": "You left home at 7 AM on Monday and the travel duration to the clinic was 2 hours, so you reached the clinic at 9 AM.",
+  "tok": 2644,
+  "usd": 0.00039252,
+  "ctx_tok": 941
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "50 pounds",
+  "tok": 3039,
+  "usd": 0.00027535,
+  "ctx_tok": 2933
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "50 pounds",
+  "tok": 4209,
+  "usd": 0.00042435,
+  "ctx_tok": 864
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "50 pounds",
+  "tok": 4396,
+  "usd": 0.00044118,
+  "ctx_tok": 1129
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "The total weight of the new feed you purchased in the past two months is 50 pounds.",
+  "tok": 2061,
+  "usd": 0.00020480999999999999,
+  "ctx_tok": 773
+ },
+ {
+  "qid": "2318644b",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$270",
+  "answer": "In Tokyo, you spent around $30 per night on a hostel. In Maui, your luxurious resort costs over $300 per night. Therefore, you spent over $270 more per night on accommodations in Hawaii compared to Tokyo.",
+  "tok": 3251,
+  "usd": 0.00031605,
+  "ctx_tok": 2949
+ },
+ {
+  "qid": "2318644b",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$270",
+  "answer": "You spent at least $270 more per night on accommodations in Hawaii compared to Tokyo.",
+  "tok": 4294,
+  "usd": 0.0004297,
+  "ctx_tok": 860
+ },
+ {
+  "qid": "2318644b",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$270",
+  "answer": "You spent at least $270 more per night on accommodations in Hawaii compared to Tokyo.",
+  "tok": 4523,
+  "usd": 0.00045031,
+  "ctx_tok": 1115
+ },
+ {
+  "qid": "2318644b",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$270",
+  "answer": "$270 more per night",
+  "tok": 2574,
+  "usd": 0.00039082,
+  "ctx_tok": 1001
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You currently have three tanks: your old 5-gallon tank, your new 20-gallon community tank, and the 1-gallon tank set up for your friend's kid.",
+  "tok": 2816,
+  "usd": 0.00027184,
+  "ctx_tok": 2986
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You currently have three tanks, including the one you set up for your friend's kid.",
+  "tok": 3846,
+  "usd": 0.00040134,
+  "ctx_tok": 886
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You currently have three tanks.",
+  "tok": 4120,
+  "usd": 0.00042048,
+  "ctx_tok": 1142
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You currently have 1 tank, which is the 1-gallon tank set up for your friend's kid.",
+  "tok": 1928,
+  "usd": 0.0002232,
+  "ctx_tok": 813
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "The initial quote was $2,500, and the corrected price was $2,800. Therefore, you had to pay $300 more for the trip after the initial quote.",
+  "tok": 3090,
+  "usd": 0.00029788,
+  "ctx_tok": 2983
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "$300",
+  "tok": 4091,
+  "usd": 0.00040545,
+  "ctx_tok": 849
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "You had to pay $300 more for the trip after the initial quote. The initial quote was $2,500, and the corrected price was $2,800.",
+  "tok": 4421,
+  "usd": 0.00045171,
+  "ctx_tok": 1111
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "$300",
+  "tok": 2395,
+  "usd": 0.00035079,
+  "ctx_tok": 950
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 3093,
+  "usd": 0.00027929,
+  "ctx_tok": 2972
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 4187,
+  "usd": 0.00043295000000000003,
+  "ctx_tok": 913
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 4396,
+  "usd": 0.00045176,
+  "ctx_tok": 1162
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 2503,
+  "usd": 0.00040651,
+  "ctx_tok": 1003
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$120",
+  "answer": "You have made $120 from selling eggs this month. (40 dozen eggs \u00d7 $3 per dozen = $120)",
+  "tok": 3244,
+  "usd": 0.00030576,
+  "ctx_tok": 2984
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$120",
+  "answer": "You have made $120 from selling eggs this month, based on selling 40 dozen eggs at $3 per dozen.",
+  "tok": 4345,
+  "usd": 0.00043981,
+  "ctx_tok": 855
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$120",
+  "answer": "You have made $120 from selling eggs this month.",
+  "tok": 4590,
+  "usd": 0.00045542,
+  "ctx_tok": 1108
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$120",
+  "answer": "You have made $120 from selling eggs this month (40 dozen at $3 per dozen).",
+  "tok": 2678,
+  "usd": 0.00042318,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "bm25_3000",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 7 times across the events attended from July to October:  \n- 3 times on Mako, Kraken, and Manta at SeaWorld San Diego in July (1 ride each, totaling 3 rides)  \n- 3 times on Revenge of the Mummy at Universal Studios Hollywood on October 15  \n- 3 times on Space Mount",
+  "tok": 3036,
+  "usd": 0.00034224,
+  "ctx_tok": 2998
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "summary",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 9 times across all events from July to October:  \n- 3 rollercoasters (Mako, Kraken, Manta) in July  \n- 3 rides on Space Mountain: Ghost Galaxy on September 24  \n- 3 rides on Revenge of the Mummy on October 15  \n\nTotal: 9 rides.",
+  "tok": 4105,
+  "usd": 0.00045961,
+  "ctx_tok": 902
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 9 times across all events from July to October.  \n- July: 3 rollercoasters (Mako, Kraken, Manta) at SeaWorld San Diego.  \n- September 24: 3 rides on Space Mountain: Ghost Galaxy at Disneyland.  \n- October 15: 3 rides on Revenge of the Mummy at Universal Studios Hol",
+  "tok": 4279,
+  "usd": 0.00047849000000000004,
+  "ctx_tok": 1161
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "You attended 3 events and rode a total of 7 rollercoasters: Mako, Kraken, Manta (1 each in July), Revenge of the Mummy (3 times), and Space Mountain: Ghost Galaxy (3 times). However, since Revenge of the Mummy and Space Mountain: Ghost Galaxy were each ridden 3 times during separate events, and you ",
+  "tok": 2723,
+  "usd": 0.00047369,
+  "ctx_tok": 1015
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2 AM",
+  "answer": "You went to bed at 2 AM on the day before your doctor's appointment.",
+  "tok": 2899,
+  "usd": 0.00026919,
+  "ctx_tok": 2979
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2 AM",
+  "answer": "You went to bed at 2 AM on the day before your doctor's appointment.",
+  "tok": 3886,
+  "usd": 0.00038239999999999997,
+  "ctx_tok": 824
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "summary1024",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2 AM",
+  "answer": "You went to bed at 2 AM on the day before your doctor's appointment.",
+  "tok": 4070,
+  "usd": 0.00039895999999999996,
+  "ctx_tok": 1084
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "state768",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "2 AM",
+  "answer": "unknown",
+  "tok": 2473,
+  "usd": 0.00037805,
+  "ctx_tok": 1009
+ },
+ {
+  "qid": "27016adc",
+  "arm": "bm25_3000",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10%",
+  "answer": "The renovations for the current house are estimated at $20,000. The countryside property is listed at $200,000.  \n\nTo calculate the percentage:  \n($20,000 / $200,000) \u00d7 100 = 10%.  \n\nAnswer: 10%",
+  "tok": 2850,
+  "usd": 0.00029054,
+  "ctx_tok": 2999
+ },
+ {
+  "qid": "27016adc",
+  "arm": "summary",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10%",
+  "answer": "The renovations are estimated to cost $20,000, and the countryside property is listed at $200,000. Therefore, the renovation cost is 10% of the countryside property's price.",
+  "tok": 4010,
+  "usd": 0.00044416,
+  "ctx_tok": 943
+ },
+ {
+  "qid": "27016adc",
+  "arm": "summary1024",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "10%",
+  "answer": "unknown",
+  "tok": 4077,
+  "usd": 0.00042903,
+  "ctx_tok": 1196
+ },
+ {
+  "qid": "27016adc",
+  "arm": "state768",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10%",
+  "answer": "The countryside property's price is $200,000. The planned renovation cost for your current house is $20,000.  \n\n($20,000 \u00f7 $200,000) \u00d7 100 = 10%  \n\nAnswer: 10%",
+  "tok": 2597,
+  "usd": 0.00041496999999999997,
+  "ctx_tok": 977
+ },
+ {
+  "qid": "5025383b",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography.",
+  "tok": 3980,
+  "usd": 0.00036556,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "You will save approximately $120\u2013$240 by taking the train instead of a taxi. A taxi from Narita Airport to central Tokyo costs around $140\u2013$220, while the train costs about $28\u2013$30.",
+  "tok": 4569,
+  "usd": 0.00043743,
+  "ctx_tok": 4393
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The total cost is $95.  \n- New food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (monthly, but counted as one purchase here)  \n- Flea and tick collar: $20  \n\n$15 + $5 + $10 + $20 = $50. Wait, correction: the dental chews are $10 per pack, and you buy them monthly, but the question asks for ",
+  "tok": 4581,
+  "usd": 0.00048129,
+  "ctx_tok": 4395
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "4",
+  "answer": "unknown",
+  "tok": 4061,
+  "usd": 0.00036641,
+  "ctx_tok": 4391
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "1,998",
+  "answer": "Your most popular YouTube video has 542 views, and your most popular TikTok video has 1,456 views. The total number of views is 1,998.",
+  "tok": 3986,
+  "usd": 0.00037806,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "190",
+  "answer": "You are on page 250 of \"The Nightingale,\" which has a total of 440 pages.  \n440 - 250 = 190 pages left.\n\nAnswer: 190",
+  "tok": 4570,
+  "usd": 0.0004343,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "Your undergraduate GPA is 3.86 out of 4.0, and your graduate GPA is 3.8 out of 4.0. The average of these two GPAs is 3.83.",
+  "tok": 3909,
+  "usd": 0.00037343,
+  "ctx_tok": 4398
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "You spent $75 at SaveMart last Thursday and earned 1% cashback, which amounts to $0.75.",
+  "tok": 4723,
+  "usd": 0.00043795,
+  "ctx_tok": 4393
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown",
+  "tok": 4188,
+  "usd": 0.00037784,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "On Fridays, you wake up at 6:00 AM, while on other weekdays, you wake up at 6:30 AM. Therefore, you wake up 30 minutes earlier on Fridays compared to other weekdays.",
+  "tok": 4297,
+  "usd": 0.00040881,
+  "ctx_tok": 4400
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 4203,
+  "usd": 0.00038793,
+  "ctx_tok": 4400
+ },
+ {
+  "qid": "e831120c",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "It took you two weeks to watch all the Marvel Cinematic Universe movies and about one and a half weeks to watch the main Star Wars films.",
+  "tok": 5863,
+  "usd": 0.00054147,
+  "ctx_tok": 4394
+ },
+ {
+  "qid": "6456829e",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants.",
+  "tok": 4293,
+  "usd": 0.00039281,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 3658,
+  "usd": 0.00033106,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "Based on the conversation, you replaced or fixed the following kitchen items:\n\n1. Replaced your old toaster with a toaster oven.\n2. Fixed your kitchen shelves.\n\nTherefore, you replaced or fixed **2** kitchen items.",
+  "tok": 4190,
+  "usd": 0.00039826,
+  "ctx_tok": 4389
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "You got 3 lunch meals from the chicken fajitas and 5 lunch meals from the lentil soup, totaling 8 lunch meals.",
+  "tok": 4447,
+  "usd": 0.00041403,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$5,150",
+  "answer": "unknown",
+  "tok": 3936,
+  "usd": 0.00035516,
+  "ctx_tok": 4395
+ },
+ {
+  "qid": "720133ac",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$75",
+  "answer": "The total cost of Lola's vet visit and flea medication is $75. The vet visit was $50, and the flea and tick prevention medication was $25 for a 3-month supply.",
+  "tok": 4370,
+  "usd": 0.00041308,
+  "ctx_tok": 4396
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as 500 points (the minimum required) translate to $5 off.",
+  "tok": 4392,
+  "usd": 0.00041046,
+  "ctx_tok": 4392
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You experienced an increase from 250 to 350 followers in two weeks, which is an approximate increase of 100 followers.",
+  "tok": 3943,
+  "usd": 0.00036959,
+  "ctx_tok": 4394
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "The car cover cost $120 and the detailing spray cost $20. The total cost is $140.",
+  "tok": 4126,
+  "usd": 0.00038376,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "unknown",
+  "tok": 3855,
+  "usd": 0.00034787,
+  "ctx_tok": 4394
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "unknown",
+  "tok": 4382,
+  "usd": 0.0003953,
+  "ctx_tok": 4391
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "140 hours",
+  "answer": "unknown",
+  "tok": 4208,
+  "usd": 0.00037964,
+  "ctx_tok": 4391
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "Based on the information provided, you have scored 3 goals and made 2 assists in the recreational indoor soccer league. Therefore, the total number of goals and assists is 5.",
+  "tok": 4378,
+  "usd": 0.0004115,
+  "ctx_tok": 4394
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "It took 5 days for your laptop backpack to arrive after you bought it. You purchased it on 1/15 and it arrived on 1/20.",
+  "tok": 4241,
+  "usd": 0.00039825,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$185",
+  "answer": "unknown",
+  "tok": 4316,
+  "usd": 0.00038936,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "You spent 8 days in Japan (April 15th to 22nd) and 4 days in Chicago, totaling 12 days.",
+  "tok": 4575,
+  "usd": 0.00042693,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 4134,
+  "usd": 0.00037298,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "60159905",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "Based on the provided memory, you attended at least three dinner parties or similar gatherings in the past month: Sarah's Italian feast, Alex's potluck, and Mike's BBQ. Therefore, you attended at least three dinner parties.",
+  "tok": 4632,
+  "usd": 0.0004385,
+  "ctx_tok": 4389
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You currently have one magazine subscription: The New Yorker.",
+  "tok": 3779,
+  "usd": 0.00034563,
+  "ctx_tok": 4396
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3,000 miles",
+  "answer": "unknown",
+  "tok": 4400,
+  "usd": 0.00039692,
+  "ctx_tok": 4396
+ },
+ {
+  "qid": "0100672e",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$12",
+  "answer": "$60 total for 5 coffee mugs, so $12 per mug.",
+  "tok": 4344,
+  "usd": 0.0003997,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 4284,
+  "usd": 0.00038648,
+  "ctx_tok": 4391
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "Based on the information provided, you have used two different types of food delivery services recently: Domino's Pizza and Fresh Fusion.",
+  "tok": 3938,
+  "usd": 0.00036638,
+  "ctx_tok": 4398
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride cost $12, and the daily train fare is $6. Therefore, the taxi ride was $6 more expensive than the train fare.",
+  "tok": 4186,
+  "usd": 0.00039192,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 4286,
+  "usd": 0.00038666,
+  "ctx_tok": 4396
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3 days",
+  "answer": "You attended a lecture on the 10th of April and a 2-day workshop on the 17th and 18th of April. That totals 3 days.  \n\nAnswer: 3",
+  "tok": 4051,
+  "usd": 0.00038483,
+  "ctx_tok": 4396
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "Based on the provided memory, you acquired two pieces of jewelry in the last two months:\n\n1. A new pair of emerald earrings, obtained on the weekend of May 20-21, 2023.\n2. A new silver necklace with a small pendant, obtained on April 15, 2023.\n\nTherefore, the answer is: 2.",
+  "tok": 4197,
+  "usd": 0.00041499,
+  "ctx_tok": 4394
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "17 days",
+  "answer": "You took a week-long break from social media, which is 7 days.",
+  "tok": 3815,
+  "usd": 0.00035117,
+  "ctx_tok": 4388
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "Based on the information provided, 4 babies were born to friends and family members in the last few months: Max (Rachel's son), Charlotte (Mike and Emma's daughter), Jasper (David's son), and the twins Ava and Lily (the aunt's twins).",
+  "tok": 4158,
+  "usd": 0.00039952,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "unknown",
+  "tok": 4079,
+  "usd": 0.00036803,
+  "ctx_tok": 4392
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "TikTok",
+  "answer": "unknown",
+  "tok": 3858,
+  "usd": 0.00034814,
+  "ctx_tok": 4395
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed one 5K fun run in March due to work commitments, specifically on March 26th.",
+  "tok": 3842,
+  "usd": 0.00035682,
+  "ctx_tok": 4398
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3",
+  "answer": "unknown",
+  "tok": 4319,
+  "usd": 0.00038963,
+  "ctx_tok": 4395
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You have been working on two projects simultaneously, excluding your thesis: the Data Mining project and the Database Systems project.",
+  "tok": 3899,
+  "usd": 0.00036195,
+  "ctx_tok": 4396
+ },
+ {
+  "qid": "129d1232",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "You raised $250 through the charity walk and $5,000 through the Bike-a-Thon, totaling $5,250.",
+  "tok": 3808,
+  "usd": 0.0003579,
+  "ctx_tok": 4392
+ },
+ {
+  "qid": "73d42213",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "9:00 AM",
+  "answer": "unknown",
+  "tok": 4178,
+  "usd": 0.00037694,
+  "ctx_tok": 4393
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "50 pounds",
+  "tok": 4369,
+  "usd": 0.00039505,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "2318644b",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$270",
+  "answer": "In Hawaii, you spent over $300 per night on accommodations, while in Tokyo, you spent around $30 per night. Therefore, you spent $270 more per night in Hawaii compared to Tokyo.",
+  "tok": 4608,
+  "usd": 0.00043588,
+  "ctx_tok": 4391
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You currently have two tanks: your new 20-gallon community tank and the 1-gallon tank you set up for your friend's kid.",
+  "tok": 3856,
+  "usd": 0.00036176,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "The initial quote for the trip was $2,500, and the corrected price was $2,800. Therefore, you had to pay $300 more after the initial quote.",
+  "tok": 4376,
+  "usd": 0.00041362,
+  "ctx_tok": 4397
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "bm25_4400",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 4435,
+  "usd": 0.00040007,
+  "ctx_tok": 4400
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$120",
+  "answer": "You have made $120 from selling eggs this month, as you sold a total of 40 dozen eggs at $3 per dozen.",
+  "tok": 4615,
+  "usd": 0.00042961,
+  "ctx_tok": 4396
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "To determine how many times you rode rollercoasters from July to October, let's analyze the events mentioned:\n\n1. **July**: You rode the Mako, Kraken, and Manta rollercoasters all in one night at SeaWorld San Diego. That\u2019s **3 rides**.\n2. **September 24th**: You rode Space Mountain: Ghost Galaxy **3",
+  "tok": 4282,
+  "usd": 0.00045438,
+  "ctx_tok": 4394
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2 AM",
+  "answer": "You went to bed at 2 AM on Wednesday, the day before your doctor's appointment on Thursday.",
+  "tok": 4251,
+  "usd": 0.00039271,
+  "ctx_tok": 4399
+ },
+ {
+  "qid": "27016adc",
+  "arm": "bm25_4400",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10%",
+  "answer": "The countryside property is listed at $200,000. The cost of the renovations on the current house is estimated at $20,000. \n\nTo find the percentage:  \n(20,000 \u00f7 200,000) \u00d7 100 = 10%\n\nAnswer: 10%",
+  "tok": 3969,
+  "usd": 0.00039263,
+  "ctx_tok": 4400
+ },
+ {
+  "qid": "5025383b",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and night cityscape photography.",
+  "tok": 4211,
+  "usd": 0.00052067,
+  "ctx_tok": 933
+ },
+ {
+  "qid": "5025383b",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography.",
+  "tok": 841,
+  "usd": 8.305e-05,
+  "ctx_tok": 787
+ },
+ {
+  "qid": "5025383b",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography.",
+  "tok": 1161,
+  "usd": 0.00011185,
+  "ctx_tok": 983
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$50",
+  "answer": "unknown",
+  "tok": 4577,
+  "usd": 0.0005531500000000001,
+  "ctx_tok": 971
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "You will save approximately $32\u2013$37 by taking the train instead of a taxi. The taxi costs $60, while the train costs between $23\u2013$28 (N'EX or Skyliner + subway).",
+  "tok": 1220,
+  "usd": 0.0001328,
+  "ctx_tok": 934
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$50",
+  "answer": "unknown",
+  "tok": 1359,
+  "usd": 0.00012323,
+  "ctx_tok": 972
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The total cost is $50.  \n- New food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (per pack, recurring)  \n- Flea and tick collar: $20 (one-time)  \n\n$15 + $5 + $10 + $20 = $50.",
+  "tok": 4935,
+  "usd": 0.00066311,
+  "ctx_tok": 1012
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The total cost is calculated as follows:  \n- Stainless steel food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (monthly pack)  \n- Flea and tick collar: $20  \n\nTotal = $15 + $5 + $10 + $20 = **$50**.  \n\nAnswer: $50",
+  "tok": 1202,
+  "usd": 0.00014544,
+  "ctx_tok": 923
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$50",
+  "answer": "The total cost is calculated as follows:  \n- New stainless steel food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (per pack, treated as a one-time expense for this calculation)  \n- Flea and tick collar: $20  \n\nTotal = $15 + $5 + $10 + $20 = **$50**.",
+  "tok": 1341,
+  "usd": 0.00016025,
+  "ctx_tok": 1007
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "4",
+  "answer": "unknown",
+  "tok": 4538,
+  "usd": 0.000557,
+  "ctx_tok": 1010
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "4",
+  "answer": "unknown",
+  "tok": 931,
+  "usd": 8.471e-05,
+  "ctx_tok": 971
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "4",
+  "answer": "unknown",
+  "tok": 826,
+  "usd": 7.526e-05,
+  "ctx_tok": 797
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "1,998",
+  "answer": "YouTube: 542 views  \nTikTok: unknown  \n\nTotal: unknown",
+  "tok": 4478,
+  "usd": 0.0005723,
+  "ctx_tok": 1016
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "1,998",
+  "answer": "TikTok video views: 1,456  \nYouTube tutorial views: 542  \n\nTotal views: 1,456 + 542 = 1,998  \n\nAnswer: 1,998",
+  "tok": 857,
+  "usd": 0.00010151,
+  "ctx_tok": 784
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "1,998",
+  "answer": "unknown",
+  "tok": 1145,
+  "usd": 0.00010397,
+  "ctx_tok": 987
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "190",
+  "answer": "unknown",
+  "tok": 4569,
+  "usd": 0.00059613,
+  "ctx_tok": 1016
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "190",
+  "answer": "You have 190 pages left to read in 'The Nightingale'.  \n(Current page: 250, Total pages: 440 \u2192 440 - 250 = 190)",
+  "tok": 1145,
+  "usd": 0.00012605,
+  "ctx_tok": 940
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "190",
+  "answer": "unknown",
+  "tok": 1140,
+  "usd": 0.00010352,
+  "ctx_tok": 901
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "The graduate GPA is 3.8. The undergraduate GPA is not specified. Therefore, the average GPA cannot be calculated.",
+  "tok": 4364,
+  "usd": 0.0005606599999999999,
+  "ctx_tok": 1022
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "The average GPA of your undergraduate and graduate studies is 3.83.",
+  "tok": 1002,
+  "usd": 9.8e-05,
+  "ctx_tok": 877
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.83",
+  "answer": "The average GPA of your undergraduate and graduate studies is 3.83. This is calculated from a 3.86 GPA in undergraduate studies at the University of Mumbai and a 3.8 GPA in graduate studies at the University of Illinois at Urbana-Champaign.",
+  "tok": 1207,
+  "usd": 0.00013485,
+  "ctx_tok": 951
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "$0.75",
+  "tok": 4554,
+  "usd": 0.00056856,
+  "ctx_tok": 1013
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "$0.75",
+  "tok": 1146,
+  "usd": 0.0001059,
+  "ctx_tok": 908
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$0.75",
+  "answer": "$0.75",
+  "tok": 1146,
+  "usd": 0.0001059,
+  "ctx_tok": 843
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown",
+  "tok": 4051,
+  "usd": 0.00041427,
+  "ctx_tok": 846
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "You currently own 3 musical instruments: piano, ukulele, and guitar.",
+  "tok": 881,
+  "usd": 8.757e-05,
+  "ctx_tok": 818
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown",
+  "tok": 865,
+  "usd": 7.877e-05,
+  "ctx_tok": 800
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "You wake up at 6:00 AM on Fridays, which is 30 minutes earlier than your usual wake-up time of 6:30 AM on other weekdays.",
+  "tok": 4600,
+  "usd": 0.0006154800000000001,
+  "ctx_tok": 1013
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "You wake up 30 minutes earlier on Fridays compared to other weekdays.",
+  "tok": 880,
+  "usd": 8.656e-05,
+  "ctx_tok": 794
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "30 minutes",
+  "answer": "You wake up at 6:00 AM on Fridays, while your regular weekday wake-up time is 6:30 AM. Therefore, you wake up 30 minutes earlier on Fridays compared to other weekdays.",
+  "tok": 1208,
+  "usd": 0.00012988,
+  "ctx_tok": 990
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 4676,
+  "usd": 0.0006145,
+  "ctx_tok": 1007
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 1058,
+  "usd": 0.00010488,
+  "ctx_tok": 945
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora.",
+  "tok": 1067,
+  "usd": 0.00010569,
+  "ctx_tok": 875
+ },
+ {
+  "qid": "e831120c",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "It took you two weeks to watch all 22 Marvel Cinematic Universe movies and about one and a half weeks to watch the main Star Wars films. Therefore, it took you a total of **three and a half weeks** to watch both.",
+  "tok": 5306,
+  "usd": 0.0006850000000000001,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "e831120c",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "You watched 22 Marvel Cinematic Universe movies in 2 weeks and the main Star Wars films in 1.5 weeks. Therefore, it took you a total of 3.5 weeks to watch both.",
+  "tok": 1273,
+  "usd": 0.00013527,
+  "ctx_tok": 845
+ },
+ {
+  "qid": "e831120c",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3.5 weeks",
+  "answer": "You watched all 22 Marvel Cinematic Universe movies in two weeks and completed the Star Wars marathon in a week and a half. Therefore, it took you a total of **2 weeks** (since the viewing periods overlapped).",
+  "tok": 1249,
+  "usd": 0.00013449,
+  "ctx_tok": 790
+ },
+ {
+  "qid": "6456829e",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants. The number of cucumber plants is unknown.",
+  "tok": 3802,
+  "usd": 0.00036794,
+  "ctx_tok": 799
+ },
+ {
+  "qid": "6456829e",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants.",
+  "tok": 910,
+  "usd": 8.834e-05,
+  "ctx_tok": 791
+ },
+ {
+  "qid": "6456829e",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants. The number of cucumber plants initially planted is not mentioned.",
+  "tok": 918,
+  "usd": 9.182e-05,
+  "ctx_tok": 793
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 4290,
+  "usd": 0.0005425,
+  "ctx_tok": 1010
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 777,
+  "usd": 7.177e-05,
+  "ctx_tok": 782
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "Harvard University",
+  "answer": "Harvard University",
+  "tok": 1091,
+  "usd": 0.00010003,
+  "ctx_tok": 1004
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You fixed the kitchen shelves, which counts as one item. So, you replaced or fixed 1 kitchen item.",
+  "tok": 4020,
+  "usd": 0.0004193,
+  "ctx_tok": 844
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced or fixed a total of 3 kitchen items: the toaster, shelves, and mat.",
+  "tok": 969,
+  "usd": 9.687e-05,
+  "ctx_tok": 964
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "unknown",
+  "tok": 1141,
+  "usd": 0.00010361,
+  "ctx_tok": 1017
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "You got 3 lunch meals from the chicken fajitas and 5 lunches from the lentil soup, totaling 8 lunch meals.",
+  "tok": 4509,
+  "usd": 0.00057739,
+  "ctx_tok": 1015
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "8",
+  "tok": 1072,
+  "usd": 9.74e-05,
+  "ctx_tok": 966
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "8 meals",
+  "answer": "The user got 3 lunch meals from the chicken fajitas and 5 lunch meals from the lentil soup, totaling 8 lunch meals.",
+  "tok": 1270,
+  "usd": 0.00012856,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$5,150",
+  "answer": "unknown",
+  "tok": 4594,
+  "usd": 0.0005901,
+  "ctx_tok": 1016
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5,150",
+  "answer": "The vintage diamond necklace is valued at $5,000, and the antique vanity was purchased for $150 with restoration work done by the user, implying it could sell for at least that amount. Therefore, the minimum amount you could get if you sold both items is $5,150.",
+  "tok": 1123,
+  "usd": 0.00013097,
+  "ctx_tok": 969
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$5,150",
+  "answer": "unknown",
+  "tok": 954,
+  "usd": 8.678e-05,
+  "ctx_tok": 812
+ },
+ {
+  "qid": "720133ac",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$75",
+  "answer": "The total cost of Lola's vet visit and flea medication is $75.  \n(Vet visit: $50, Flea and tick medication: $25)",
+  "tok": 3909,
+  "usd": 0.00037204999999999996,
+  "ctx_tok": 779
+ },
+ {
+  "qid": "720133ac",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$75",
+  "answer": "The total cost of Lola's vet visit and flea medication is $75.",
+  "tok": 943,
+  "usd": 9.269e-05,
+  "ctx_tok": 799
+ },
+ {
+  "qid": "720133ac",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$75",
+  "answer": "$75",
+  "tok": 1244,
+  "usd": 0.0001138,
+  "ctx_tok": 1011
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as you have reached 500 points, which is the minimum required for the discount.",
+  "tok": 4316,
+  "usd": 0.0004625,
+  "ctx_tok": 852
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as you have reached 500 points, which meets the threshold for the minimum discount.",
+  "tok": 1126,
+  "usd": 0.00011744,
+  "ctx_tok": 967
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as 500 points (which you have reached) translate to a $5 discount.",
+  "tok": 1268,
+  "usd": 0.00013022,
+  "ctx_tok": 1023
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You increased from 250 to 350 followers in two weeks, which is an increase of approximately 100 followers.",
+  "tok": 3958,
+  "usd": 0.00038842,
+  "ctx_tok": 797
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "The user started with 250 Instagram followers and reached 350 followers in two weeks.  \nThe approximate increase is 100 followers.  \n\nAnswer: 100",
+  "tok": 983,
+  "usd": 0.00010687,
+  "ctx_tok": 977
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "100",
+  "answer": "You had 250 followers at the start of the year and reached around 350 followers after two weeks of posting regularly. This represents an increase of approximately 100 followers.",
+  "tok": 1163,
+  "usd": 0.00012353,
+  "ctx_tok": 991
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "The car cover cost $120 and the detailing spray cost $20. The total cost is $140.",
+  "tok": 3821,
+  "usd": 0.00035999000000000003,
+  "ctx_tok": 786
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "The total cost of the car cover and detailing spray is $140 ($120 + $20).",
+  "tok": 1034,
+  "usd": 0.00010456,
+  "ctx_tok": 945
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$140",
+  "answer": "The car cover cost $120 and the detailing spray cost $20. The total cost is $140.",
+  "tok": 1107,
+  "usd": 0.00011205,
+  "ctx_tok": 920
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "unknown",
+  "tok": 3985,
+  "usd": 0.00043271,
+  "ctx_tok": 881
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "unknown",
+  "tok": 1017,
+  "usd": 9.245e-05,
+  "ctx_tok": 885
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed at least two properties: the townhouse in the Brookside neighborhood (viewed on February 22nd) and a property in Cedar Creek (viewed on February 1st). Therefore, you viewed at least 2 properties before making an offer on the Brookside townhouse.",
+  "tok": 1326,
+  "usd": 0.0001474,
+  "ctx_tok": 1001
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "unknown",
+  "tok": 4001,
+  "usd": 0.00036193,
+  "ctx_tok": 774
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "17-18 hours",
+  "tok": 1023,
+  "usd": 9.529e-05,
+  "ctx_tok": 951
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "unknown",
+  "tok": 1044,
+  "usd": 9.488e-05,
+  "ctx_tok": 891
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "140 hours",
+  "answer": "unknown",
+  "tok": 4607,
+  "usd": 0.00057977,
+  "ctx_tok": 1021
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "140 hours",
+  "answer": "115 hours",
+  "tok": 1088,
+  "usd": 0.00010022,
+  "ctx_tok": 873
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "140 hours",
+  "answer": "unknown",
+  "tok": 1270,
+  "usd": 0.00011522,
+  "ctx_tok": 989
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "You have scored 3 goals and made 2 assists in the recreational indoor soccer league, for a total of 5 goal contributions.",
+  "tok": 4593,
+  "usd": 0.00061025,
+  "ctx_tok": 1009
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "You have scored 3 goals and provided 2 assists in the recreational indoor soccer league, making a total of 5 contributions.",
+  "tok": 1122,
+  "usd": 0.0001134,
+  "ctx_tok": 934
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "You have scored 3 goals and made 2 assists in the recreational indoor soccer league, based on the information provided. Therefore, the total number of goals and assists is 5.",
+  "tok": 1069,
+  "usd": 0.00011369,
+  "ctx_tok": 810
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "5 days",
+  "tok": 4464,
+  "usd": 0.00056874,
+  "ctx_tok": 1016
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "5 days",
+  "tok": 954,
+  "usd": 8.724e-05,
+  "ctx_tok": 804
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "9 days",
+  "tok": 1236,
+  "usd": 0.00011262,
+  "ctx_tok": 968
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$185",
+  "answer": "$40",
+  "tok": 4121,
+  "usd": 0.00044403,
+  "ctx_tok": 874
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$185",
+  "answer": "$40",
+  "tok": 1179,
+  "usd": 0.00010795,
+  "ctx_tok": 922
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$185",
+  "answer": "unknown",
+  "tok": 1143,
+  "usd": 0.00010379,
+  "ctx_tok": 828
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "unknown",
+  "tok": 4570,
+  "usd": 0.0005677,
+  "ctx_tok": 1010
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "12 days",
+  "tok": 1048,
+  "usd": 9.616e-05,
+  "ctx_tok": 798
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "unknown",
+  "tok": 1329,
+  "usd": 0.00012053,
+  "ctx_tok": 1000
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 4523,
+  "usd": 0.00056531,
+  "ctx_tok": 1003
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 1059,
+  "usd": 9.623e-05,
+  "ctx_tok": 967
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "0.5 hours",
+  "answer": "unknown",
+  "tok": 915,
+  "usd": 8.327e-05,
+  "ctx_tok": 790
+ },
+ {
+  "qid": "60159905",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "You attended at least two dinner parties in the past month: one at Sarah's place and another at Alex's place.",
+  "tok": 4560,
+  "usd": 0.00059394,
+  "ctx_tok": 1007
+ },
+ {
+  "qid": "60159905",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "3",
+  "tok": 933,
+  "usd": 8.489e-05,
+  "ctx_tok": 786
+ },
+ {
+  "qid": "60159905",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "three",
+  "answer": "You have attended three dinner parties in the past month: Sarah's Italian feast, Alex's potluck, and Mike's BBQ.",
+  "tok": 1257,
+  "usd": 0.00012555,
+  "ctx_tok": 1021
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "1",
+  "tok": 3745,
+  "usd": 0.00034625,
+  "ctx_tok": 786
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You currently have 1 magazine subscription.",
+  "tok": 939,
+  "usd": 8.865e-05,
+  "ctx_tok": 985
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "1",
+  "tok": 1138,
+  "usd": 0.00010334,
+  "ctx_tok": 1019
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3,000 miles",
+  "answer": "unknown",
+  "tok": 4508,
+  "usd": 0.00056534,
+  "ctx_tok": 1005
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3,000 miles",
+  "answer": "The total distance covered in your four road trips is 3,000 miles.",
+  "tok": 1018,
+  "usd": 0.00010036,
+  "ctx_tok": 962
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3,000 miles",
+  "answer": "unknown",
+  "tok": 1112,
+  "usd": 0.000101,
+  "ctx_tok": 969
+ },
+ {
+  "qid": "0100672e",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$12",
+  "answer": "unknown",
+  "tok": 4370,
+  "usd": 0.00057822,
+  "ctx_tok": 1000
+ },
+ {
+  "qid": "0100672e",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$12",
+  "answer": "$12",
+  "tok": 1003,
+  "usd": 0.00014306,
+  "ctx_tok": 934
+ },
+ {
+  "qid": "0100672e",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$12",
+  "answer": "unknown",
+  "tok": 1142,
+  "usd": 0.0001037,
+  "ctx_tok": 951
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 4362,
+  "usd": 0.00052736,
+  "ctx_tok": 945
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 1048,
+  "usd": 9.524e-05,
+  "ctx_tok": 911
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17",
+  "answer": "unknown",
+  "tok": 1231,
+  "usd": 0.00011171,
+  "ctx_tok": 1020
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "Based on the retrieved information, you have used two food delivery services recently: Domino's Pizza and Fresh Fusion.\n\nAnswer: 2",
+  "tok": 4622,
+  "usd": 0.0005723799999999999,
+  "ctx_tok": 1007
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You have used 2 different food delivery services recently.",
+  "tok": 1062,
+  "usd": 0.0001011,
+  "ctx_tok": 960
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You have mentioned using two food delivery services recently: Domino's Pizza and Fresh Fusion.",
+  "tok": 1256,
+  "usd": 0.00012132,
+  "ctx_tok": 994
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride cost $12, while the daily train fare is $6. Therefore, the taxi ride was $6 more expensive than the train fare.",
+  "tok": 4601,
+  "usd": 0.00060223,
+  "ctx_tok": 1011
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride cost $12, and the train fare is $6. Therefore, the taxi ride was $6 more expensive than the train fare.",
+  "tok": 1107,
+  "usd": 0.00011435,
+  "ctx_tok": 942
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$6",
+  "answer": "The taxi ride cost $12, while the daily train fare is $6. Therefore, the taxi ride was $6 more expensive than the train fare.",
+  "tok": 1263,
+  "usd": 0.00012885,
+  "ctx_tok": 1014
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 4568,
+  "usd": 0.0005960399999999999,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 1084,
+  "usd": 9.848e-05,
+  "ctx_tok": 979
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown",
+  "tok": 999,
+  "usd": 9.083e-05,
+  "ctx_tok": 819
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3 days",
+  "answer": "unknown",
+  "tok": 4448,
+  "usd": 0.0005719,
+  "ctx_tok": 1005
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3 days",
+  "answer": "You spent 3 days attending events in April: the lecture on April 10 and the workshops on April 17 and April 18.",
+  "tok": 831,
+  "usd": 0.00013746,
+  "ctx_tok": 791
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3 days",
+  "answer": "unknown",
+  "tok": 1086,
+  "usd": 9.866e-05,
+  "ctx_tok": 993
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You acquired 1 piece of jewelry (an engagement ring) in the last two months.",
+  "tok": 4551,
+  "usd": 0.00060233,
+  "ctx_tok": 1000
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You acquired 2 pieces of jewelry in the last two months: emerald earrings and a silver necklace.",
+  "tok": 1057,
+  "usd": 0.00010525,
+  "ctx_tok": 955
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You acquired at least two pieces of jewelry in the last two months: a new pair of emerald earrings (acquired last weekend) and a silver necklace (acquired on the 15th of last month). \n\nAnswer: 2",
+  "tok": 1247,
+  "usd": 0.00013523,
+  "ctx_tok": 985
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17 days",
+  "answer": "unknown",
+  "tok": 4259,
+  "usd": 0.00050705,
+  "ctx_tok": 949
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "17 days",
+  "answer": "You took a total of 7 days of social media breaks.",
+  "tok": 866,
+  "usd": 8.438e-05,
+  "ctx_tok": 935
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "17 days",
+  "answer": "unknown",
+  "tok": 931,
+  "usd": 8.471e-05,
+  "ctx_tok": 899
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "5",
+  "tok": 4532,
+  "usd": 0.00057716,
+  "ctx_tok": 1015
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "5",
+  "tok": 999,
+  "usd": 9.083e-05,
+  "ctx_tok": 872
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "5",
+  "answer": "5 babies: Max (cousin Rachel's son), Charlotte (friends Mike and Emma's daughter), Jasper (friend David's son), and twins Ava and Lily (aunt's twins).",
+  "tok": 1244,
+  "usd": 0.00020056,
+  "ctx_tok": 1023
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "0",
+  "tok": 4379,
+  "usd": 0.00054499,
+  "ctx_tok": 1007
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "You have attended three weddings this year: your sister's wedding, your cousin's wedding in August, and another unspecified wedding.",
+  "tok": 1044,
+  "usd": 0.00010592,
+  "ctx_tok": 981
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "unknown",
+  "tok": 1184,
+  "usd": 0.00010748,
+  "ctx_tok": 1011
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "TikTok",
+  "answer": "TikTok",
+  "tok": 4360,
+  "usd": 0.0008466799999999999,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "TikTok",
+  "answer": "TikTok",
+  "tok": 981,
+  "usd": 9.013e-05,
+  "ctx_tok": 969
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "TikTok",
+  "answer": "unknown",
+  "tok": 1159,
+  "usd": 0.00010523,
+  "ctx_tok": 1013
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed one fun run in March due to work commitments, specifically the 5K fun run on March 26th.",
+  "tok": 4444,
+  "usd": 0.000595,
+  "ctx_tok": 1021
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed 1 fun run in March due to work commitments.",
+  "tok": 1056,
+  "usd": 0.00010148,
+  "ctx_tok": 965
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You missed one fun run in March due to work commitments, specifically on March 26th.",
+  "tok": 1222,
+  "usd": 0.00011964,
+  "ctx_tok": 1012
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3",
+  "answer": "unknown",
+  "tok": 4452,
+  "usd": 0.0005593800000000001,
+  "ctx_tok": 1010
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You have used 3 different types of citrus fruits in your cocktail recipes: orange, lemon, and grapefruit.",
+  "tok": 1042,
+  "usd": 0.00010482,
+  "ctx_tok": 970
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3",
+  "answer": "unknown",
+  "tok": 1166,
+  "usd": 0.00010586,
+  "ctx_tok": 1017
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "2",
+  "tok": 4207,
+  "usd": 0.00052169,
+  "ctx_tok": 967
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "2",
+  "tok": 952,
+  "usd": 0.0001346,
+  "ctx_tok": 962
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2",
+  "answer": "You have been working on two projects simultaneously, excluding your thesis: the Data Mining project and the Database Systems project.",
+  "tok": 924,
+  "usd": 9.42e-05,
+  "ctx_tok": 821
+ },
+ {
+  "qid": "129d1232",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "You raised $5,000 in the Bike-a-Thon for Cancer Research and $250 through sponsors in a charity walk. In total, you raised $5,250.",
+  "tok": 4265,
+  "usd": 0.00054577,
+  "ctx_tok": 989
+ },
+ {
+  "qid": "129d1232",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "$5,250",
+  "tok": 848,
+  "usd": 7.954e-05,
+  "ctx_tok": 810
+ },
+ {
+  "qid": "129d1232",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "$5,850",
+  "answer": "You raised a total of $5,250. This includes $5,000 from the Bike-a-Thon for Cancer Research and $250 from the charity walk.",
+  "tok": 1233,
+  "usd": 0.00012937,
+  "ctx_tok": 973
+ },
+ {
+  "qid": "73d42213",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "9:00 AM",
+  "answer": "unknown",
+  "tok": 4479,
+  "usd": 0.00057239,
+  "ctx_tok": 1013
+ },
+ {
+  "qid": "73d42213",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "9:00 AM",
+  "answer": "unknown",
+  "tok": 1131,
+  "usd": 0.00010271,
+  "ctx_tok": 897
+ },
+ {
+  "qid": "73d42213",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "9:00 AM",
+  "answer": "unknown",
+  "tok": 1025,
+  "usd": 9.317e-05,
+  "ctx_tok": 789
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "The total weight of the new feed you purchased is 50 pounds.",
+  "tok": 4760,
+  "usd": 0.00061976,
+  "ctx_tok": 1008
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "50 pounds",
+  "tok": 1012,
+  "usd": 9.292e-05,
+  "ctx_tok": 771
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "70 pounds",
+  "answer": "50 pounds",
+  "tok": 1343,
+  "usd": 0.00012271,
+  "ctx_tok": 1009
+ },
+ {
+  "qid": "2318644b",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$270",
+  "answer": "You spent $270 more per night in Hawaii compared to Tokyo.  \n(Hawaii: over $300 per night, Tokyo: $30 per night)",
+  "tok": 4556,
+  "usd": 0.0005853,
+  "ctx_tok": 1021
+ },
+ {
+  "qid": "2318644b",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$270",
+  "answer": "You spent $270 more per night on accommodations in Maui compared to Tokyo ($300 - $30 = $270).",
+  "tok": 1155,
+  "usd": 0.00011821,
+  "ctx_tok": 979
+ },
+ {
+  "qid": "2318644b",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$270",
+  "answer": "unknown",
+  "tok": 1210,
+  "usd": 0.00010982,
+  "ctx_tok": 947
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You currently have 1 tank, which is the 1-gallon tank you set up for your friend's kid.",
+  "tok": 4429,
+  "usd": 0.00059411,
+  "ctx_tok": 1012
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "3",
+  "answer": "You currently have 3 tanks: your 20-gallon main tank, the 1-gallon tank for your friend's kid, and a quarantine tank that is in planning.",
+  "tok": 1049,
+  "usd": 0.00017194,
+  "ctx_tok": 906
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "3",
+  "answer": "unknown",
+  "tok": 1185,
+  "usd": 0.00010757,
+  "ctx_tok": 963
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "The initial quote was $2,500, and the corrected price was $2,800. Therefore, you had to pay $300 more after the initial quote.",
+  "tok": 3765,
+  "usd": 0.00036093,
+  "ctx_tok": 779
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "$300 more",
+  "tok": 1050,
+  "usd": 9.726e-05,
+  "ctx_tok": 916
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$300",
+  "answer": "The initial quote was $2,500, and the corrected price was $2,800. You had to pay $300 more after the initial quote.",
+  "tok": 1309,
+  "usd": 0.00013529,
+  "ctx_tok": 1005
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 4560,
+  "usd": 0.00058842,
+  "ctx_tok": 1027
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 1058,
+  "usd": 9.614e-05,
+  "ctx_tok": 964
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "856",
+  "answer": "unknown",
+  "tok": 1247,
+  "usd": 0.00011315,
+  "ctx_tok": 1023
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$120",
+  "answer": "You have sold 40 dozen eggs this month at $3 per dozen, earning a total of $120.",
+  "tok": 4526,
+  "usd": 0.0005711,
+  "ctx_tok": 1014
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "$120",
+  "answer": "You have made $120 from selling eggs this month (40 dozen at $3 per dozen).",
+  "tok": 1181,
+  "usd": 0.00011687,
+  "ctx_tok": 974
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "$120",
+  "answer": "unknown",
+  "tok": 1341,
+  "usd": 0.00012161,
+  "ctx_tok": 1022
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 7 times across all events from July to October:\n\n- **July**: 3 rides (Mako, Kraken, and Manta at SeaWorld San Diego in one night)\n- **September 24**: 3 rides (Space Mountain: Ghost Galaxy at Disneyland)\n- **October 15**: 1 ride (Revenge of the Mummy at Universal St",
+  "tok": 4630,
+  "usd": 0.00065544,
+  "ctx_tok": 1018
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "nodate",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 11 times across all events from July to October:\n\n- July (SeaWorld night ride): Mako, Kraken, Manta \u2192 3 rides  \n- September 24 (Mickey's Halloween Party): Space Mountain: Ghost Galaxy \u2192 3 rides  \n- October 15 (Halloween Horror Nights): Revenge of the Mummy \u2192 3 ride",
+  "tok": 1279,
+  "usd": 0.00018411,
+  "ctx_tok": 972
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": false,
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 6 times across the events you attended from July to October:  \n- 3 times on Mako, Kraken, and Manta at SeaWorld San Diego in July (1 ride each, totaling 3 rides)  \n- 3 times on Revenge of the Mummy at Universal Studios Hollywood on October 15th  \n\nTotal: 6 rides.",
+  "tok": 1320,
+  "usd": 0.00015652,
+  "ctx_tok": 970
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "rand40",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "2 AM",
+  "answer": "unknown",
+  "tok": 4548,
+  "usd": 0.00057722,
+  "ctx_tok": 1012
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "2 AM",
+  "answer": "You had a doctor's appointment on Thursday, and on the day before (Wednesday), you went to bed at 2 AM.",
+  "tok": 1061,
+  "usd": 0.00010791,
+  "ctx_tok": 922
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "shuffled",
+  "ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "unknown": true,
+  "gold": "2 AM",
+  "answer": "unknown",
+  "tok": 1217,
+  "usd": 0.00011045,
+  "ctx_tok": 980
+ },
+ {
+  "qid": "27016adc",
+  "arm": "rand40",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10%",
+  "answer": "The countryside property is listed at $200,000. The cost of the renovations on the current house is estimated at $20,000.  \n\n($20,000 / $200,000) \u00d7 100 = 10%  \n\nAnswer: 10%",
+  "tok": 4409,
+  "usd": 0.00059001,
+  "ctx_tok": 1004
+ },
+ {
+  "qid": "27016adc",
+  "arm": "nodate",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10%",
+  "answer": "The renovations cost $20,000, and the countryside property price is $200,000.  \n($20,000 / $200,000) \u00d7 100 = 10%.  \n\nAnswer: 10%",
+  "tok": 1141,
+  "usd": 0.00013121,
+  "ctx_tok": 932
+ },
+ {
+  "qid": "27016adc",
+  "arm": "shuffled",
+  "ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "unknown": false,
+  "gold": "10%",
+  "answer": "The renovations cost $20,000, and the countryside property is listed at $200,000.  \n($20,000 / $200,000) \u00d7 100 = 10%.  \n\nAnswer: 10%",
+  "tok": 1037,
+  "usd": 0.00012231,
+  "ctx_tok": 793
+ }
+]

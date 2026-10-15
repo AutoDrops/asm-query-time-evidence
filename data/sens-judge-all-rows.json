@@ -1,0 +1,2396 @@
+[
+ {
+  "qid": "5025383b",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "photography and cooking",
+  "answer": "The two hobbies are cooking and photography."
+ },
+ {
+  "qid": "5025383b",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography."
+ },
+ {
+  "qid": "5025383b",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "photography and cooking",
+  "answer": "The two hobbies that led you to join online communities are cooking and photography."
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$50",
+  "answer": "unknown"
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$50",
+  "answer": "You will save approximately $32\u2013$38 by taking the train instead of a taxi, as the train costs $23\u2013$28 compared to the taxi's $60."
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$50",
+  "answer": "unknown"
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$50",
+  "answer": "The total cost is $45.  \n- New food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (monthly, but counted as one instance)  \n- Flea and tick collar: $20  \n\n$15 + $5 + $10 + $20 = $45"
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$50",
+  "answer": "The total cost is calculated as follows:  \n- Stainless steel food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (monthly, but counted as one instance)  \n- Flea and tick collar: $20  \n\nTotal = $15 + $5 + $10 + $20 = **$50**."
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   false,
+   true
+  ],
+  "gold": "$50",
+  "answer": "The total cost is $45.  \n- New food bowl: $15  \n- Measuring cup: $5  \n- Dental chews: $10 (monthly pack)  \n- Flea and tick collar: $20  \n\n$15 + $5 + $10 + $20 = $50.  \n\nWait, correction: the dental chews are a recurring expense, but the question asks for the cost of the items you got, implying one instance. So:  \n- Food bowl: $15  \n- Measuring cup: $5  \n- One pack of dental chews: $10  \n- Flea and tick collar: $20  \n\nTotal: $15 + $5"
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "4",
+  "answer": "You attended one art-related event in the past month: the \"Women in Art\" exhibition on February 10th."
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "4",
+  "answer": "unknown"
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "4",
+  "answer": "unknown"
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "1,998",
+  "answer": "Your most popular YouTube video has 542 views, and your most popular TikTok video has 1,456 views. The total is 1,998 views."
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "1,998",
+  "answer": "Your most popular TikTok video has 1,456 views, and your most popular YouTube tutorial has 542 views. The total number of views is 1,998."
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "1,998",
+  "answer": "unknown"
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "190",
+  "answer": "You are on page 250 of \"The Nightingale,\" which has a total of 440 pages.  \n\n440 - 250 = 190 pages left.  \n\nAnswer: 190"
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "190",
+  "answer": "You have 190 pages left to read in 'The Nightingale'.  \n(Current page: 250, Total pages: 440 \u2192 440 - 250 = 190)"
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "190",
+  "answer": "You are on page 250 of \"The Nightingale,\" which has a total of 440 pages.  \n440 - 250 = 190 pages left.  \n\nAnswer: 190 pages"
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3.83",
+  "answer": "unknown"
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3.83",
+  "answer": "The average GPA of your undergraduate and graduate studies is 3.83."
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3.83",
+  "answer": "unknown"
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$0.75",
+  "answer": "$0.75"
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$0.75",
+  "answer": "$0.75"
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$0.75",
+  "answer": "You spent $75 at SaveMart last Thursday and earned 1% cashback, which amounts to $0.75."
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "You currently own 3 musical instruments: piano, ukulele, and guitar."
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I currently own 4 musical instruments. I've had the Fender Stratocaster electric",
+  "answer": "unknown"
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "30 minutes",
+  "answer": "On Fridays, you wake up at 6:00 AM, which is 30 minutes earlier than the other weekdays when you wake up at 6:30 AM."
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "30 minutes",
+  "answer": "You wake up 30 minutes earlier on Fridays compared to other weekdays. On Fridays, you wake up at 6:00 AM, while on weekdays (Monday to Thursday), you wake up at 6:30 AM."
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "30 minutes",
+  "answer": "On Fridays, you wake up at 6:00 AM, which is 30 minutes earlier than your usual 6:30 AM wake-up time on other weekdays."
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora."
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora."
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "100",
+  "answer": "You need a total of 300 points to redeem a free skincare product at Sephora."
+ },
+ {
+  "qid": "e831120c",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3.5 weeks",
+  "answer": "You watched all 22 Marvel Cinematic Universe movies in about two weeks and completed the Star Wars marathon in a week and a half. Therefore, it took you a total of approximately two weeks to watch both the MCU and Star Wars films, as the viewing periods likely overlapped or were close together. However, based on your statements, the Marvel binge took two weeks and the Star Wars marathon took about one and a half weeks. So, combined, it took roughly **two weeks**, as the timeframes may have overlapped or were consecutive."
+ },
+ {
+  "qid": "e831120c",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3.5 weeks",
+  "answer": "You watched the 22 Marvel Cinematic Universe movies in 2 weeks and the main Star Wars films in 1.5 weeks. Therefore, it took you a total of 3.5 weeks."
+ },
+ {
+  "qid": "e831120c",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3.5 weeks",
+  "answer": "You watched all 22 Marvel Cinematic Universe movies in about two weeks and completed the Star Wars marathon in a week and a half. Therefore, it took you approximately two weeks to watch both the Marvel movies and the main Star Wars films, as the viewing periods overlapped."
+ },
+ {
+  "qid": "6456829e",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants."
+ },
+ {
+  "qid": "6456829e",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants."
+ },
+ {
+  "qid": "6456829e",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "8",
+  "answer": "You initially planted 5 tomato plants and 3 cucumber plants."
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "bm25",
+  "kind": "name",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "Harvard University",
+  "answer": "Harvard University"
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "state",
+  "kind": "name",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "Harvard University",
+  "answer": "Harvard University"
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "recency",
+  "kind": "name",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "Harvard University",
+  "answer": "Harvard University"
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced or fixed three kitchen items: you upgraded to a toaster oven, fixed the kitchen shelves, and added a new kitchen mat in front of the sink."
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced or fixed a total of 3 kitchen items: the toaster, shelves, and mat."
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster",
+  "answer": "You replaced your old toaster with a toaster oven. That is 1 kitchen item."
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "8 meals",
+  "answer": "You got 3 lunch meals from the chicken fajitas and 5 lunch meals from the lentil soup, totaling 8 lunch meals."
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "8 meals",
+  "answer": "8"
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "8 meals",
+  "answer": "You got 3 lunch meals from the chicken fajitas and 5 lunch meals from the lentil soup, totaling 8 lunch meals."
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$5,150",
+  "answer": "unknown"
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$5,150",
+  "answer": "The vintage diamond necklace is valued at $5,000, and the antique vanity was purchased for $150 with restoration work done by the user, indicating it could be worth at least that amount. Therefore, the minimum amount you could get from selling both items is $5,150."
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$5,150",
+  "answer": "unknown"
+ },
+ {
+  "qid": "720133ac",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$75",
+  "answer": "unknown"
+ },
+ {
+  "qid": "720133ac",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$75",
+  "answer": "The total cost of Lola's vet visit and flea medication is $75."
+ },
+ {
+  "qid": "720133ac",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$75",
+  "answer": "The total cost is $75. The vet consultation fee was $50, and the flea and tick prevention medication was $25."
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as 500 points (which you have reached) translate to a $5 discount."
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as you have reached 500 points, which is the threshold for the minimum discount."
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$5",
+  "answer": "You will get a $5 discount on your next purchase at FreshMart, as 500 points (the minimum required) translate to a $5 discount."
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "100",
+  "answer": "You started with 250 followers and reached around 350 followers in two weeks, which is an approximate increase of 100 followers."
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "100",
+  "answer": "You increased from 250 to 350 followers in two weeks, which is an approximate increase of 100 followers."
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "100",
+  "answer": "You started with 250 followers and reached around 350 followers in two weeks, which is an approximate increase of 100 followers."
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$140",
+  "answer": "The car cover cost $120 and the detailing spray cost $20. The total cost is $140."
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$140",
+  "answer": "$140"
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$140",
+  "answer": "The car cover cost $120 and the detailing spray cost $20. The total cost is $140."
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed one property\u2014the 3-bedroom townhouse in the Brookside neighborhood\u2014before making an offer."
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed 1 property before making an offer on the townhouse in the Brookside neighborhood."
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brooksid",
+  "answer": "You viewed 1 property before making an offer on the townhouse in the Brookside neighborhood."
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "unknown"
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "17-18 hours"
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "15 hours for getting to the three destinations (or 30 hours for the round trip)",
+  "answer": "unknown"
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "140 hours",
+  "answer": "unknown"
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "140 hours",
+  "answer": "115 hours"
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "140 hours",
+  "answer": "unknown"
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "5",
+  "answer": "You have scored 3 goals and had 2 assists in the recreational indoor soccer league, making a total of 5 goals and assists."
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "5",
+  "answer": "5 (3 goals + 2 assists)"
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "5",
+  "answer": "You mentioned scoring 3 goals and having 2 assists in the recreational indoor soccer league. Therefore, the total number of goals and assists is 5."
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "5 days"
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "5 days"
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "5 days. 6 days (including the last day) is also acceptable.",
+  "answer": "Your laptop backpack arrived on 1/20, and you bought it on 1/15. Therefore, it took 5 days to arrive."
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$185",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$185",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$185",
+  "answer": "unknown"
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "You spent 8 days in Japan (April 15th to 22nd) and 4 days in Chicago, totaling 12 days."
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "12 days"
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "11 days (or 12 days, if April 15th to 22nd is considered as 8 days)",
+  "answer": "You spent 8 days in Japan (April 15th to 22nd) and 4 days in Chicago, for a total of 12 days."
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "0.5 hours",
+  "answer": "unknown"
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "0.5 hours",
+  "answer": "unknown"
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "0.5 hours",
+  "answer": "unknown"
+ },
+ {
+  "qid": "60159905",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "three",
+  "answer": "You have attended three dinner parties in the past month: one at Sarah's place, one at Alex's place, and one at Mike's place."
+ },
+ {
+  "qid": "60159905",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "three",
+  "answer": "3"
+ },
+ {
+  "qid": "60159905",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "three",
+  "answer": "Based on the provided memory, you attended at least three dinner parties in the past month: one at Sarah's place (Italian feast), one at Alex's place (potluck), and one at Mike's place (BBQ). \n\nAnswer: 3"
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2",
+  "answer": "You currently have two magazine subscriptions: The New Yorker and The New York Times (print edition)."
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "2",
+  "answer": "1"
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2",
+  "answer": "You currently have two magazine subscriptions: The New Yorker and The New York Times (print edition)."
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3,000 miles",
+  "answer": "unknown"
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3,000 miles",
+  "answer": "3,000 miles"
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3,000 miles",
+  "answer": "The user mentioned two road trips with specific mileages: a 4-day trip to Yellowstone covering 1,200 miles and three prior trips totaling 1,800 miles. Adding these together results in a total of 3,000 miles across four road trips. \n\nAnswer: 3,000 miles"
+ },
+ {
+  "qid": "0100672e",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$12",
+  "answer": "You spent $60 on a set of 5 coffee mugs for your coworkers, which means you spent $12 on each mug."
+ },
+ {
+  "qid": "0100672e",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$12",
+  "answer": "$12"
+ },
+ {
+  "qid": "0100672e",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$12",
+  "answer": "You spent $60 on five coffee mugs for your coworkers, which means you spent $12 on each mug."
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "17",
+  "answer": "unknown"
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "17",
+  "answer": "unknown"
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "17",
+  "answer": "unknown"
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "2"
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "You have used 2 different food delivery services recently: Domino's Pizza and Fresh Fusion."
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "You have mentioned using two different food delivery services recently: Fresh Fusion and Domino's Pizza."
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$6",
+  "answer": "unknown"
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$6",
+  "answer": "The taxi ride cost $12, while the daily train fare is $6. Therefore, the taxi ride was $6 more expensive than the train fare."
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$6",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, ",
+  "answer": "unknown"
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3 days",
+  "answer": "You attended a lecture on the 10th of April and a 2-day workshop on the 17th and 18th of April. That totals 3 days spent attending workshops, lectures, and conferences in April."
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3 days",
+  "answer": "You spent 3 days attending events in April: one lecture on April 10 and two workshop days on April 17 and April 18."
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3 days",
+  "answer": "You attended a 2-day workshop on April 17th and 18th, and a lecture on April 10th. That totals 3 days."
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "unknown"
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "You acquired 2 pieces of jewelry in the last two months: emerald earrings and a silver necklace."
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "unknown"
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "17 days",
+  "answer": "unknown"
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "17 days",
+  "answer": "You took a total of 7 days of social media breaks."
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "17 days",
+  "answer": "unknown"
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "5",
+  "answer": "Based on the memory, the babies born to friends and family members in the last few months are:\n\n1. Max (cousin Rachel's son, born in March)\n2. Charlotte (friends Mike and Emma's daughter, born a few weeks after March)\n3. Jasper (friend David's son, born a few weeks before May 13)\n\nThis totals **3 babies**."
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "5",
+  "answer": "5"
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "5",
+  "answer": "Four babies were born to friends and family members in the last few months: Rachel's son Max, Mike and Emma's daughter Charlotte, and the twins Ava and Lily born to the user's aunt."
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "You have attended 2 weddings this year."
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, an",
+  "answer": "unknown"
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "bm25",
+  "kind": "name",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "TikTok",
+  "answer": "TikTok"
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "state",
+  "kind": "name",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "TikTok",
+  "answer": "TikTok"
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "recency",
+  "kind": "name",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "TikTok",
+  "answer": "unknown"
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "2",
+  "answer": "You missed one fun run in March due to work commitments\u2014the 5K fun run on March 26th."
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "2",
+  "answer": "You missed 1 fun run in March due to work commitments."
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "2",
+  "answer": "You missed one fun run in March due to work commitments\u2014the 5K fun run on March 5th."
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "unknown"
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3",
+  "answer": "You have used 3 different types of citrus fruits in your cocktail recipes: orange, lemon, and grapefruit."
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "unknown"
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2",
+  "answer": "You have been working on two projects simultaneously, excluding your thesis: the Data Mining project and the Database Systems project."
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2",
+  "answer": "2"
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2",
+  "answer": "You have been working on two projects simultaneously, excluding your thesis: the Data Mining project and the Database Systems project."
+ },
+ {
+  "qid": "129d1232",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$5,850",
+  "answer": "You raised a total of $5,250 through all the charity events you participated in ($250 from the charity walk and $5,000 from the Bike-a-Thon)."
+ },
+ {
+  "qid": "129d1232",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$5,850",
+  "answer": "$5,250"
+ },
+ {
+  "qid": "129d1232",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$5,850",
+  "answer": "You raised a total of $5,250 through all the charity events you participated in. This includes $250 from the charity walk and $5,000 from the Bike-a-Thon."
+ },
+ {
+  "qid": "73d42213",
+  "arm": "bm25",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "9:00 AM",
+  "answer": "unknown"
+ },
+ {
+  "qid": "73d42213",
+  "arm": "state",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "9:00 AM",
+  "answer": "unknown"
+ },
+ {
+  "qid": "73d42213",
+  "arm": "recency",
+  "kind": "judge",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "9:00 AM",
+  "answer": "unknown"
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "70 pounds",
+  "answer": "The total weight of the new feed you purchased in the past two months is 50 pounds."
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "70 pounds",
+  "answer": "The total weight of the new feed you purchased in the past two months is 50 pounds."
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "70 pounds",
+  "answer": "The total weight of the new feed you purchased in the past two months is 50 pounds."
+ },
+ {
+  "qid": "2318644b",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$270",
+  "answer": "You spent $270 more per night in Hawaii compared to Tokyo ($300 - $30 = $270)."
+ },
+ {
+  "qid": "2318644b",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$270",
+  "answer": "$270 more per night in Maui compared to Tokyo."
+ },
+ {
+  "qid": "2318644b",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$270",
+  "answer": "You spent $270 more per night in Hawaii compared to Tokyo ($300 - $30 = $270)."
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "You currently have two tanks: your new 20-gallon community tank and the 1-gallon tank you set up for your friend's kid."
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "3",
+  "answer": "You currently have 3 tanks: your 20-gallon main tank, the 1-gallon tank for your friend's kid, and a planned quarantine tank."
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "3",
+  "answer": "You currently have two tanks: your new 20-gallon community tank and the 1-gallon tank you set up for your friend's kid."
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$300",
+  "answer": "The initial quote was $2,500, and the corrected price for the entire trip was $2,800. Therefore, you had to pay $300 more after the initial quote."
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$300",
+  "answer": "$300"
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "$300",
+  "answer": "unknown"
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "856",
+  "answer": "unknown"
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "856",
+  "answer": "unknown"
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "856",
+  "answer": "unknown"
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$120",
+  "answer": "You have made $120 from selling eggs this month (40 dozen at $3 per dozen)."
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$120",
+  "answer": "You have sold 40 dozen eggs at $3 per dozen, so you have made 40 \u00d7 $3 = $120 from selling eggs this month."
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "$120",
+  "answer": "You have sold 40 dozen eggs this month. At $3 per dozen, you have made $120 from selling eggs."
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 7 times across all events from July to October:  \n- 3 times on Mako, Kraken, and Manta at SeaWorld San Diego in July (1 ride each, totaling 3 rides)  \n- 3 times on Revenge of the Mummy at Universal Studios Hollywood on October 15th  \n- 3 times on Space Mountain: Ghost Galaxy at Disneyland on September 24th  \n\nHowever, since you specified riding Mako, Kraken, and Manta \"all in one night,\" it implies one ride per coaster, totaling 3 rides, not 3 rides each.  \n\nSo:  \n- 3 rides at SeaWorld (one per coaster)  \n-"
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "10 times",
+  "answer": "You rode rollercoasters a total of 13 times across all events from July to October:  \n- Mako, Kraken, Manta (3 rides each) = 9 rides during the SeaWorld night event in July  \n- Revenge of the Mummy (3 times) on October 15  \n- Space Mountain: Ghost Galaxy (3 times) on September 24  \n\nTotal: 9 + 3 + 3 = 12 rides.  \n\nWait \u2014 Mako, Kraken, and Manta are 3 rides total (one each), not 3 each. So:  \n- Mako, Kraken, Manta = 3 rides  \n- Revenge of the Mummy = 3 times"
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "10 times",
+  "answer": "unknown"
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2 AM",
+  "answer": "You went to bed at 2 AM on Wednesday, the day before your doctor's appointment on Thursday."
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2 AM",
+  "answer": "The doctor's appointment was on Thursday, 2023/05/24. The sleep time recorded for Wednesday, 2023/05/24, was 2 AM. Therefore, you went to bed at 2 AM on the day before your doctor's appointment.\n\nAnswer: 2 AM"
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "2 AM",
+  "answer": "You went to bed at 2 AM on Wednesday, the day before your doctor's appointment."
+ },
+ {
+  "qid": "27016adc",
+  "arm": "bm25",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "10%",
+  "answer": "unknown"
+ },
+ {
+  "qid": "27016adc",
+  "arm": "state",
+  "kind": "number",
+  "exact_ok": true,
+  "judge_ok": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "gold": "10%",
+  "answer": "The countryside property's price is $200,000, and the planned renovation cost for the current house is $20,000.  \n\n($20,000 / $200,000) \u00d7 100 = 10%  \n\nAnswer: 10%"
+ },
+ {
+  "qid": "27016adc",
+  "arm": "recency",
+  "kind": "number",
+  "exact_ok": false,
+  "judge_ok": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "gold": "10%",
+  "answer": "unknown"
+ }
+]

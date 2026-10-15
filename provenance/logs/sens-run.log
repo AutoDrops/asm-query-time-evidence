@@ -1,0 +1,65 @@
+5025383b spent 0.0
+09ba9854 spent 0.0001
+85fa3a3f spent 0.0003
+2ce6a0f2 spent 0.0004
+d6062bb9 spent 0.0005
+2311e44b spent 0.0007
+8cf4d046 spent 0.0008
+9aaed6a3 spent 0.0008
+gpt4_194be4b3 spent 0.0008
+efc3f7c2 spent 0.001
+9ee3ecd6 spent 0.001
+e831120c spent 0.0012
+6456829e spent 0.0012
+a96c20ee spent 0.0013
+gpt4_ab202e7f spent 0.0013
+8979f9ec spent 0.0014
+91b15a6e spent 0.0015
+720133ac spent 0.0016
+e56a43b9 spent 0.0017
+a11281a2 spent 0.0018
+1c549ce4 spent 0.0019
+gpt4_7fce9456 spent 0.0019
+aae3761f spent 0.0019
+28dc39ac spent 0.002
+4adc0475 spent 0.0021
+60bf93ed spent 0.0021
+gpt4_d84a3211 spent 0.0021
+3fdac837 spent 0.0021
+7024f17c spent 0.0022
+60159905 spent 0.0023
+1a8a66a6 spent 0.0024
+6c49646a spent 0.0025
+0100672e spent 0.0027
+eeda8a6d spent 0.0027
+d682f1a2 spent 0.0028
+cc06de0d spent 0.0029
+gpt4_f2262a51 spent 0.0029
+10d9b85a spent 0.003
+9d25d4e0 spent 0.0031
+6cb6f249 spent 0.0032
+2e6d26dc spent 0.0033
+gpt4_2f8be40d spent 0.0033
+gpt4_5501fe77 spent 0.0034
+21d02d0d spent 0.0035
+c4a1ceb8 spent 0.0036
+60472f9c spent 0.0037
+129d1232 spent 0.0038
+73d42213 spent 0.0038
+bc149d6b spent 0.0039
+2318644b spent 0.004
+46a3abf7 spent 0.0041
+77eafa52 spent 0.0042
+37f165cf spent 0.0042
+87f22b4a spent 0.0044
+gpt4_e05b82a6 spent 0.0046
+dd2973ad spent 0.0047
+27016adc spent 0.0048
+# EXP-C2 post-hoc sensitivity: LLM judge (3-vote) on ALL rows (not prereg)
+
+| grading | bm25 | state | recency | state>bm25 (w:l, p) | state>recency (w:l, p) |
+|---|---|---|---|---|---|
+| prereg (exact containment for number/date/name) | 23/57 | 33/57 | 23/57 | (11, 1, 0.0032) | (11, 1, 0.0032) |
+| judge on all rows | 24/57 | 34/57 | 24/57 | (11, 1, 0.0032) | (11, 1, 0.0032) |
+
+Rows where exact and judge disagree: 3. Spend $0.0048.

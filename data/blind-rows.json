@@ -1,0 +1,6899 @@
+[
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6456829e",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "5025383b",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "129d1232",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2318644b",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e831120c",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e831120c",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "129d1232",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "27016adc",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "27016adc",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "129d1232",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e831120c",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "129d1232",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60159905",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "0100672e",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2318644b",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "73d42213",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "27016adc",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   false,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "73d42213",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6456829e",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "60159905",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "73d42213",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "6456829e",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e831120c",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "720133ac",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "73d42213",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "e831120c",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2318644b",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e831120c",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "27016adc",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "0100672e",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60159905",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "73d42213",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2318644b",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e831120c",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "27016adc",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "60159905",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "720133ac",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6456829e",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e831120c",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "720133ac",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "720133ac",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "0100672e",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "73d42213",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "73d42213",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2318644b",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60159905",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e831120c",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2318644b",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2318644b",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "0100672e",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "73d42213",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "27016adc",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "0100672e",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "60159905",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6456829e",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2318644b",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "129d1232",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "27016adc",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "129d1232",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "720133ac",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "720133ac",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "73d42213",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "0100672e",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "129d1232",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "27016adc",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "720133ac",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6456829e",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "720133ac",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "6456829e",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60159905",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "5025383b",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "720133ac",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "5025383b",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e831120c",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "0100672e",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "720133ac",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "129d1232",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60159905",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "d6062bb9",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "0100672e",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "60bf93ed",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e831120c",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "rand40",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9ee3ecd6",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "73d42213",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "73d42213",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "21d02d0d",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6456829e",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "87f22b4a",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6456829e",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "27016adc",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "7024f17c",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_194be4b3",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2318644b",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "bc149d6b",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "129d1232",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "27016adc",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "5025383b",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "129d1232",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "nodate",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "0100672e",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "27016adc",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "aae3761f",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "dd2973ad",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "09ba9854",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "bm25_3000",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "3fdac837",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "summary1024",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2318644b",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "85fa3a3f",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "8cf4d046",
+  "arm": "shuffled",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "10d9b85a",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60159905",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "720133ac",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "efc3f7c2",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "d682f1a2",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "eeda8a6d",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "37f165cf",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "2ce6a0f2",
+  "arm": "summary1024",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6cb6f249",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "0100672e",
+  "arm": "nodate",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2318644b",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6c49646a",
+  "arm": "summary",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "9d25d4e0",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "8979f9ec",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "a96c20ee",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "9aaed6a3",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "c4a1ceb8",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "bm25",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "arm": "summary",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "1c549ce4",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "cc06de0d",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "e56a43b9",
+  "arm": "state768",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "28dc39ac",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "60159905",
+  "arm": "bm25_4400",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60472f9c",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "60159905",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "6456829e",
+  "arm": "recency",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "6456829e",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "arm": "rand40",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": null
+ },
+ {
+  "qid": "a11281a2",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "129d1232",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "46a3abf7",
+  "arm": "state768",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "0100672e",
+  "arm": "bm25",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "1a8a66a6",
+  "arm": "shuffled",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ },
+ {
+  "qid": "4adc0475",
+  "arm": "recency",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "91b15a6e",
+  "arm": "state",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2311e44b",
+  "arm": "bm25_4400",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "77eafa52",
+  "arm": "state",
+  "blind": true,
+  "votes": [
+   true,
+   true,
+   true
+  ],
+  "finalnum": true
+ },
+ {
+  "qid": "2e6d26dc",
+  "arm": "bm25_3000",
+  "blind": false,
+  "votes": [
+   false,
+   false,
+   false
+  ],
+  "finalnum": false
+ }
+]

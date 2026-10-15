@@ -1,0 +1,24 @@
+judge q
+  bm25         24/57 ctx=- state-vs: 11:1 p1=0.003 p2=0.006
+  recency      24/57 ctx=- state-vs: 11:1 p1=0.003 p2=0.006
+  state        34/57 ctx=- state-vs: 
+  bm25_3000    27/57 ctx=2982 state-vs: 7:0 p1=0.008 p2=0.016
+  bm25_4400    28/57 ctx=4396 state-vs: 7:1 p1=0.035 p2=0.070
+  summary      33/57 ctx=871 state-vs: 3:2 p1=0.500 p2=1.000
+  summary1024  32/57 ctx=1127 state-vs: 4:2 p1=0.344 p2=0.688
+  state768     28/57 ctx=953 state-vs: 9:3 p1=0.073 p2=0.146
+  rand40       21/57 ctx=965 state-vs: 13:0 p1=0.000 p2=0.000
+  nodate       35/57 ctx=907 state-vs: 0:1 p1=1.000 p2=1.000
+  shuffled     18/57 ctx=944 state-vs: 16:0 p1=0.000 p2=0.000
+judge b
+  bm25         22/57 ctx=- state-vs: 9:1 p1=0.011 p2=0.021
+  recency      21/57 ctx=- state-vs: 10:1 p1=0.006 p2=0.012
+  state        30/57 ctx=- state-vs: 
+  bm25_3000    21/57 ctx=2982 state-vs: 9:0 p1=0.002 p2=0.004
+  bm25_4400    22/57 ctx=4396 state-vs: 8:0 p1=0.004 p2=0.008
+  summary      27/57 ctx=871 state-vs: 6:3 p1=0.254 p2=0.508
+  summary1024  24/57 ctx=1127 state-vs: 9:3 p1=0.073 p2=0.146
+  state768     26/57 ctx=953 state-vs: 6:2 p1=0.145 p2=0.289
+  rand40       20/57 ctx=965 state-vs: 10:0 p1=0.001 p2=0.002
+  nodate       30/57 ctx=907 state-vs: 0:0 p1=1.000 p2=1.000
+  shuffled     18/57 ctx=944 state-vs: 12:0 p1=0.000 p2=0.000

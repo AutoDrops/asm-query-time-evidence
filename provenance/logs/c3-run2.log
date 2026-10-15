@@ -1,0 +1,61 @@
+spent 0.0041
+spent 0.0041
+spent 0.0041
+2ce6a0f2 bm25_3000 0 [False, False, False] | 4 | unknown
+2ce6a0f2 summary 0 [False, False, False] | 4 | unknown
+2ce6a0f2 summary1024 0 [False, False, False] | 4 | You attended one art-related event in the past month: the "Women in Art" exhibit
+2ce6a0f2 state768 0 [False, False, False] | 4 | unknown
+spent 0.0053
+d6062bb9 bm25_3000 0 [False, False, False] | 1,998 | unknown
+d6062bb9 summary 1 [True, True, True] | 1,998 | 1,456 views (TikTok) + 542 views (YouTube) = 1,998 views.  
+The total number of 
+d6062bb9 summary1024 1 [True, True, True] | 1,998 | 1,456 (TikTok) + 542 (YouTube) = 1,998 views.
+d6062bb9 state768 0 [False, False, False] | 1,998 | unknown
+spent 0.0064
+2311e44b bm25_3000 1 [True, True, True] | 190 | You are on page 250 of "The Nightingale," which has 440 pages.  
+440 - 250 = 190
+2311e44b summary 1 [True, True, True] | 190 | You have 190 pages left to read in *The Nightingale*.
+2311e44b summary1024 1 [True, True, True] | 190 | You have 190 pages left to read in *The Nightingale*.
+2311e44b state768 0 [False, False, False] | 190 | unknown
+spent 0.0077
+8cf4d046 bm25_3000 0 [False, False, False] | 3.83 | Your undergraduate GPA was 3.86 out of 4.0, and your graduate GPA was 3.8 out of
+8cf4d046 summary 1 [True, True, True] | 3.83 | The average GPA of your undergraduate and graduate studies is 3.83. This is calc
+8cf4d046 summary1024 1 [True, True, True] | 3.83 | The user's undergraduate GPA is not directly provided, but they mentioned that t
+8cf4d046 state768 1 [True, True, True] | 3.83 | The average GPA of your undergraduate and graduate studies is 3.83.
+spent 0.009
+9aaed6a3 bm25_3000 1 [True, True, True] | $0.75 | You spent $75 at SaveMart last Thursday and earned 1% cashback, which amounts to
+9aaed6a3 summary 1 [True, True, True] | $0.75 | $0.75
+9aaed6a3 summary1024 1 [True, True, True] | $0.75 | $0.75
+9aaed6a3 state768 1 [True, True, True] | $0.75 | $0.75
+spent 0.0102
+gpt4_194be4b3 bm25_3000 0 [False, False, False] | I currently own 4 musical instruments. I | unknown
+gpt4_194be4b3 summary 0 [False, False, False] | I currently own 4 musical instruments. I | unknown
+gpt4_194be4b3 summary1024 0 [False, False, False] | I currently own 4 musical instruments. I | unknown
+gpt4_194be4b3 state768 0 [False, False, False] | I currently own 4 musical instruments. I | You currently own 1 musical instrument.
+spent 0.0112
+efc3f7c2 bm25_3000 1 [True, True, True] | 30 minutes | On Fridays, you wake up at 6:00 AM, while on other weekdays, you wake up at 6:30
+efc3f7c2 summary 1 [True, True, True] | 30 minutes | You wake up 30 minutes earlier on Fridays compared to other weekdays.
+efc3f7c2 summary1024 1 [True, True, True] | 30 minutes | You wake up 30 minutes earlier on Fridays compared to other weekdays.
+efc3f7c2 state768 1 [True, True, True] | 30 minutes | You wake up 30 minutes earlier on Fridays compared to other weekdays. (6:00 AM o
+spent 0.0124
+9ee3ecd6 bm25_3000 0 [False, False, False] | 100 | You need a total of 300 points to redeem a free skincare product at Sephora.
+9ee3ecd6 summary 0 [False, False, False] | 100 | You need a total of 300 points to redeem a free skincare product at Sephora.
+9ee3ecd6 summary1024 0 [False, False, False] | 100 | You need a total of 300 points to redeem a free skincare product at Sephora.
+9ee3ecd6 state768 0 [False, False, False] | 100 | You need a total of 300 points to redeem a free skincare product at Sephora.
+spent 0.0136
+e831120c bm25_3000 1 [True, True, True] | 3.5 weeks | It took you two weeks to watch all the Marvel Cinematic Universe movies and abou
+e831120c summary 1 [True, True, True] | 3.5 weeks | It took you two weeks to watch all the Marvel Cinematic Universe movies and one 
+e831120c summary1024 1 [True, True, True] | 3.5 weeks | It took you two weeks to watch all the Marvel Cinematic Universe movies and a we
+e831120c state768 1 [True, True, True] | 3.5 weeks | You watched the 22 Marvel Cinematic Universe movies in 2 weeks and the main Star
+spent 0.0154
+6456829e bm25_3000 1 [True, True, True] | 8 | You initially planted 5 tomato plants and 3 cucumber plants.
+6456829e summary 1 [True, True, True] | 8 | You initially planted 5 tomato plants and 3 cucumber plants.
+6456829e summary1024 1 [True, True, True] | 8 | You initially planted 5 tomato plants and 3 cucumber plants.
+6456829e state768 0 [False, False, False] | 8 | You initially planted 5 tomato plants. The number of cucumber plants initially p
+spent 0.0166
+a96c20ee bm25_3000 1 [True, True, True] | Harvard University | Harvard University
+a96c20ee summary 1 [True, True, True] | Harvard University | Harvard University
+a96c20ee summary1024 1 [True, True, True] | Harvard University | Harvard University
+a96c20ee state768 1 [True, True, True] | Harvard University | Harvard University
+spent 0.0175
+gpt4_ab202e7f bm25_3000 0 [False, False, False] | I replaced or fixed five items: the kitc | You replaced or fixed 3 kitchen items: the toaster (replaced with a toaster oven

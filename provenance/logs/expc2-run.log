@@ -1,0 +1,240 @@
+5025383b bm25 1 [True, True, True] | photography and cooking | The two hobbies are cooking and photography.
+5025383b state 1 [True, True, True] | photography and cooking | The two hobbies that led you to join online communities are cooking and photogra
+5025383b recency 1 [True, True, True] | photography and cooking | The two hobbies that led you to join online communities are cooking and photogra
+spent 0.0024
+09ba9854 bm25 0 number | $50 | unknown
+09ba9854 state 0 number | $50 | You will save approximately $32–$38 by taking the train instead of a taxi, as th
+09ba9854 recency 0 number | $50 | unknown
+spent 0.0024
+85fa3a3f bm25 0 number | $50 | The total cost is $45.  
+- New food bowl: $15  
+- Measuring cup: $5  
+- Dental c
+85fa3a3f state 1 number | $50 | The total cost is calculated as follows:  
+- Stainless steel food bowl: $15  
+- 
+85fa3a3f recency 1 number | $50 | The total cost is $45.  
+- New food bowl: $15  
+- Measuring cup: $5  
+- Dental c
+spent 0.0024
+2ce6a0f2 bm25 0 number | 4 | You attended one art-related event in the past month: the "Women in Art" exhibit
+2ce6a0f2 state 0 number | 4 | unknown
+2ce6a0f2 recency 0 number | 4 | unknown
+spent 0.0032
+d6062bb9 bm25 1 number | 1,998 | Your most popular YouTube video has 542 views, and your most popular TikTok vide
+d6062bb9 state 1 number | 1,998 | Your most popular TikTok video has 1,456 views, and your most popular YouTube tu
+d6062bb9 recency 0 number | 1,998 | unknown
+spent 0.0038
+2311e44b bm25 1 number | 190 | You are on page 250 of "The Nightingale," which has a total of 440 pages.  
+
+440
+2311e44b state 1 number | 190 | You have 190 pages left to read in 'The Nightingale'.  
+(Current page: 250, Tota
+2311e44b recency 1 number | 190 | You are on page 250 of "The Nightingale," which has a total of 440 pages.  
+440 
+spent 0.0047
+8cf4d046 bm25 0 number | 3.83 | unknown
+8cf4d046 state 1 number | 3.83 | The average GPA of your undergraduate and graduate studies is 3.83.
+8cf4d046 recency 0 number | 3.83 | unknown
+spent 0.0054
+9aaed6a3 bm25 1 number | $0.75 | $0.75
+9aaed6a3 state 1 number | $0.75 | $0.75
+9aaed6a3 recency 1 number | $0.75 | You spent $75 at SaveMart last Thursday and earned 1% cashback, which amounts to
+spent 0.0062
+gpt4_194be4b3 bm25 0 [False, False, False] | I currently own 4 musical instruments. I | unknown
+gpt4_194be4b3 state 0 [False, False, False] | I currently own 4 musical instruments. I | You currently own 3 musical instruments: piano, ukulele, and guitar.
+gpt4_194be4b3 recency 0 [False, False, False] | I currently own 4 musical instruments. I | unknown
+spent 0.0069
+efc3f7c2 bm25 1 number | 30 minutes | On Fridays, you wake up at 6:00 AM, which is 30 minutes earlier than the other w
+efc3f7c2 state 1 number | 30 minutes | You wake up 30 minutes earlier on Fridays compared to other weekdays. On Fridays
+efc3f7c2 recency 1 number | 30 minutes | On Fridays, you wake up at 6:00 AM, which is 30 minutes earlier than your usual 
+spent 0.0076
+9ee3ecd6 bm25 0 number | 100 | You need a total of 300 points to redeem a free skincare product at Sephora.
+9ee3ecd6 state 0 number | 100 | You need a total of 300 points to redeem a free skincare product at Sephora.
+9ee3ecd6 recency 0 number | 100 | You need a total of 300 points to redeem a free skincare product at Sephora.
+spent 0.0084
+e831120c bm25 0 number | 3.5 weeks | You watched all 22 Marvel Cinematic Universe movies in about two weeks and compl
+e831120c state 1 number | 3.5 weeks | You watched the 22 Marvel Cinematic Universe movies in 2 weeks and the main Star
+e831120c recency 0 number | 3.5 weeks | You watched all 22 Marvel Cinematic Universe movies in about two weeks and compl
+spent 0.0093
+6456829e bm25 0 number | 8 | You initially planted 5 tomato plants and 3 cucumber plants.
+6456829e state 0 number | 8 | You initially planted 5 tomato plants and 3 cucumber plants.
+6456829e recency 0 number | 8 | You initially planted 5 tomato plants and 3 cucumber plants.
+spent 0.0099
+a96c20ee bm25 1 name | Harvard University | Harvard University
+a96c20ee state 1 name | Harvard University | Harvard University
+a96c20ee recency 1 name | Harvard University | Harvard University
+spent 0.0104
+gpt4_ab202e7f bm25 0 [False, False, False] | I replaced or fixed five items: the kitc | You replaced or fixed three kitchen items: you upgraded to a toaster oven, fixed
+gpt4_ab202e7f state 0 [False, False, False] | I replaced or fixed five items: the kitc | You replaced or fixed a total of 3 kitchen items: the toaster, shelves, and mat.
+gpt4_ab202e7f recency 0 [False, False, False] | I replaced or fixed five items: the kitc | You replaced your old toaster with a toaster oven. That is 1 kitchen item.
+spent 0.0113
+8979f9ec bm25 1 number | 8 meals | You got 3 lunch meals from the chicken fajitas and 5 lunch meals from the lentil
+8979f9ec state 1 number | 8 meals | 8
+8979f9ec recency 1 number | 8 meals | You got 3 lunch meals from the chicken fajitas and 5 lunch meals from the lentil
+spent 0.012
+91b15a6e bm25 0 number | $5,150 | unknown
+91b15a6e state 1 number | $5,150 | The vintage diamond necklace is valued at $5,000, and the antique vanity was pur
+91b15a6e recency 0 number | $5,150 | unknown
+spent 0.0127
+720133ac bm25 0 number | $75 | unknown
+720133ac state 1 number | $75 | The total cost of Lola's vet visit and flea medication is $75.
+720133ac recency 1 number | $75 | The total cost is $75. The vet consultation fee was $50, and the flea and tick p
+spent 0.0134
+e56a43b9 bm25 1 number | $5 | You will get a $5 discount on your next purchase at FreshMart, as 500 points (wh
+e56a43b9 state 1 number | $5 | You will get a $5 discount on your next purchase at FreshMart, as you have reach
+e56a43b9 recency 1 number | $5 | You will get a $5 discount on your next purchase at FreshMart, as 500 points (th
+spent 0.0142
+a11281a2 bm25 1 number | 100 | You started with 250 followers and reached around 350 followers in two weeks, wh
+a11281a2 state 1 number | 100 | You increased from 250 to 350 followers in two weeks, which is an approximate in
+a11281a2 recency 1 number | 100 | You started with 250 followers and reached around 350 followers in two weeks, wh
+spent 0.015
+1c549ce4 bm25 1 number | $140 | The car cover cost $120 and the detailing spray cost $20. The total cost is $140
+1c549ce4 state 1 number | $140 | $140
+1c549ce4 recency 1 number | $140 | The car cover cost $120 and the detailing spray cost $20. The total cost is $140
+spent 0.0158
+gpt4_7fce9456 bm25 0 [False, False, False] | I viewed four properties before making a | You viewed one property—the 3-bedroom townhouse in the Brookside neighborhood—be
+gpt4_7fce9456 state 0 [False, False, False] | I viewed four properties before making a | You viewed 1 property before making an offer on the townhouse in the Brookside n
+gpt4_7fce9456 recency 0 [False, False, False] | I viewed four properties before making a | You viewed 1 property before making an offer on the townhouse in the Brookside n
+spent 0.0166
+aae3761f bm25 0 [False, False, False] | 15 hours for getting to the three destin | unknown
+aae3761f state 0 [False, False, False] | 15 hours for getting to the three destin | 17-18 hours
+aae3761f recency 0 [False, False, False] | 15 hours for getting to the three destin | unknown
+spent 0.0175
+28dc39ac bm25 0 number | 140 hours | unknown
+28dc39ac state 0 number | 140 hours | 115 hours
+28dc39ac recency 0 number | 140 hours | unknown
+spent 0.0181
+4adc0475 bm25 1 number | 5 | You have scored 3 goals and had 2 assists in the recreational indoor soccer leag
+4adc0475 state 1 number | 5 | 5 (3 goals + 2 assists)
+4adc0475 recency 1 number | 5 | You mentioned scoring 3 goals and having 2 assists in the recreational indoor so
+spent 0.0189
+60bf93ed bm25 1 [True, True, True] | 5 days. 6 days (including the last day)  | 5 days
+60bf93ed state 1 [True, True, True] | 5 days. 6 days (including the last day)  | 5 days
+60bf93ed recency 1 [True, True, True] | 5 days. 6 days (including the last day)  | Your laptop backpack arrived on 1/20, and you bought it on 1/15. Therefore, it t
+spent 0.0196
+gpt4_d84a3211 bm25 0 number | $185 | unknown
+gpt4_d84a3211 state 0 number | $185 | unknown
+gpt4_d84a3211 recency 0 number | $185 | unknown
+spent 0.0204
+3fdac837 bm25 1 [True, True, True] | 11 days (or 12 days, if April 15th to 22 | You spent 8 days in Japan (April 15th to 22nd) and 4 days in Chicago, totaling 1
+3fdac837 state 1 [True, True, True] | 11 days (or 12 days, if April 15th to 22 | 12 days
+3fdac837 recency 1 [True, True, True] | 11 days (or 12 days, if April 15th to 22 | You spent 8 days in Japan (April 15th to 22nd) and 4 days in Chicago, for a tota
+spent 0.0213
+7024f17c bm25 0 number | 0.5 hours | unknown
+7024f17c state 0 number | 0.5 hours | unknown
+7024f17c recency 0 number | 0.5 hours | unknown
+spent 0.0221
+60159905 bm25 1 number | three | You have attended three dinner parties in the past month: one at Sarah's place, 
+60159905 state 1 number | three | 3
+60159905 recency 1 number | three | Based on the provided memory, you attended at least three dinner parties in the 
+spent 0.0227
+1a8a66a6 bm25 1 number | 2 | You currently have two magazine subscriptions: The New Yorker and The New York T
+1a8a66a6 state 0 number | 2 | 1
+1a8a66a6 recency 1 number | 2 | You currently have two magazine subscriptions: The New Yorker and The New York T
+spent 0.0235
+6c49646a bm25 0 number | 3,000 miles | unknown
+6c49646a state 1 number | 3,000 miles | 3,000 miles
+6c49646a recency 1 number | 3,000 miles | The user mentioned two road trips with specific mileages: a 4-day trip to Yellow
+spent 0.0243
+0100672e bm25 1 number | $12 | You spent $60 on a set of 5 coffee mugs for your coworkers, which means you spen
+0100672e state 1 number | $12 | $12
+0100672e recency 1 number | $12 | You spent $60 on five coffee mugs for your coworkers, which means you spent $12 
+spent 0.0251
+eeda8a6d bm25 0 number | 17 | unknown
+eeda8a6d state 0 number | 17 | unknown
+eeda8a6d recency 0 number | 17 | unknown
+spent 0.0259
+d682f1a2 bm25 0 number | 3 | 2
+d682f1a2 state 0 number | 3 | You have used 2 different food delivery services recently: Domino's Pizza and Fr
+d682f1a2 recency 0 number | 3 | You have mentioned using two different food delivery services recently: Fresh Fu
+spent 0.0266
+cc06de0d bm25 0 number | $6 | unknown
+cc06de0d state 1 number | $6 | The taxi ride cost $12, while the daily train fare is $6. Therefore, the taxi ri
+cc06de0d recency 0 number | $6 | unknown
+spent 0.0274
+gpt4_f2262a51 bm25 0 [False, False, False] | I visited three different doctors: a pri | unknown
+gpt4_f2262a51 state 0 [False, False, False] | I visited three different doctors: a pri | unknown
+gpt4_f2262a51 recency 0 [False, False, False] | I visited three different doctors: a pri | unknown
+spent 0.0282
+10d9b85a bm25 1 number | 3 days | You attended a lecture on the 10th of April and a 2-day workshop on the 17th and
+10d9b85a state 1 number | 3 days | You spent 3 days attending events in April: one lecture on April 10 and two work
+10d9b85a recency 1 number | 3 days | You attended a 2-day workshop on April 17th and 18th, and a lecture on April 10t
+spent 0.0289
+9d25d4e0 bm25 0 number | 3 | unknown
+9d25d4e0 state 0 number | 3 | You acquired 2 pieces of jewelry in the last two months: emerald earrings and a 
+9d25d4e0 recency 0 number | 3 | unknown
+spent 0.0296
+6cb6f249 bm25 0 number | 17 days | unknown
+6cb6f249 state 0 number | 17 days | You took a total of 7 days of social media breaks.
+6cb6f249 recency 0 number | 17 days | unknown
+spent 0.0303
+2e6d26dc bm25 0 number | 5 | Based on the memory, the babies born to friends and family members in the last f
+2e6d26dc state 1 number | 5 | 5
+2e6d26dc recency 0 number | 5 | Four babies were born to friends and family members in the last few months: Rach
+spent 0.031
+gpt4_2f8be40d bm25 0 [False, False, False] | I attended three weddings. The couples w | unknown
+gpt4_2f8be40d state 0 [False, False, False] | I attended three weddings. The couples w | You have attended 2 weddings this year.
+gpt4_2f8be40d recency 0 [False, False, False] | I attended three weddings. The couples w | unknown
+spent 0.0319
+gpt4_5501fe77 bm25 1 name | TikTok | TikTok
+gpt4_5501fe77 state 1 name | TikTok | TikTok
+gpt4_5501fe77 recency 0 name | TikTok | unknown
+spent 0.0326
+21d02d0d bm25 0 number | 2 | You missed one fun run in March due to work commitments—the 5K fun run on March 
+21d02d0d state 0 number | 2 | You missed 1 fun run in March due to work commitments.
+21d02d0d recency 0 number | 2 | You missed one fun run in March due to work commitments—the 5K fun run on March 
+spent 0.0334
+c4a1ceb8 bm25 0 number | 3 | unknown
+c4a1ceb8 state 1 number | 3 | You have used 3 different types of citrus fruits in your cocktail recipes: orang
+c4a1ceb8 recency 0 number | 3 | unknown
+spent 0.0342
+60472f9c bm25 1 number | 2 | You have been working on two projects simultaneously, excluding your thesis: the
+60472f9c state 1 number | 2 | 2
+60472f9c recency 1 number | 2 | You have been working on two projects simultaneously, excluding your thesis: the
+spent 0.0349
+129d1232 bm25 0 number | $5,850 | You raised a total of $5,250 through all the charity events you participated in 
+129d1232 state 0 number | $5,850 | $5,250
+129d1232 recency 0 number | $5,850 | You raised a total of $5,250 through all the charity events you participated in.
+spent 0.0355
+73d42213 bm25 0 [False, False, False] | 9:00 AM | unknown
+73d42213 state 0 [False, False, False] | 9:00 AM | unknown
+73d42213 recency 0 [False, False, False] | 9:00 AM | unknown
+spent 0.0364
+bc149d6b bm25 0 number | 70 pounds | The total weight of the new feed you purchased in the past two months is 50 poun
+bc149d6b state 0 number | 70 pounds | The total weight of the new feed you purchased in the past two months is 50 poun
+bc149d6b recency 0 number | 70 pounds | The total weight of the new feed you purchased in the past two months is 50 poun
+spent 0.037
+2318644b bm25 1 number | $270 | You spent $270 more per night in Hawaii compared to Tokyo ($300 - $30 = $270).
+2318644b state 1 number | $270 | $270 more per night in Maui compared to Tokyo.
+2318644b recency 1 number | $270 | You spent $270 more per night in Hawaii compared to Tokyo ($300 - $30 = $270).
+spent 0.0379
+46a3abf7 bm25 0 number | 3 | You currently have two tanks: your new 20-gallon community tank and the 1-gallon
+46a3abf7 state 1 number | 3 | You currently have 3 tanks: your 20-gallon main tank, the 1-gallon tank for your
+46a3abf7 recency 0 number | 3 | You currently have two tanks: your new 20-gallon community tank and the 1-gallon
+spent 0.0386
+77eafa52 bm25 1 number | $300 | The initial quote was $2,500, and the corrected price for the entire trip was $2
+77eafa52 state 1 number | $300 | $300
+77eafa52 recency 0 number | $300 | unknown
+spent 0.0394
+37f165cf bm25 0 number | 856 | unknown
+37f165cf state 0 number | 856 | unknown
+37f165cf recency 0 number | 856 | unknown
+spent 0.0402
+87f22b4a bm25 1 number | $120 | You have made $120 from selling eggs this month (40 dozen at $3 per dozen).
+87f22b4a state 1 number | $120 | You have sold 40 dozen eggs at $3 per dozen, so you have made 40 × $3 = $120 fro
+87f22b4a recency 1 number | $120 | You have sold 40 dozen eggs this month. At $3 per dozen, you have made $120 from
+spent 0.0411
+gpt4_e05b82a6 bm25 0 number | 10 times | You rode rollercoasters a total of 7 times across all events from July to Octobe
+gpt4_e05b82a6 state 0 number | 10 times | You rode rollercoasters a total of 13 times across all events from July to Octob
+gpt4_e05b82a6 recency 0 number | 10 times | unknown
+spent 0.042
+dd2973ad bm25 1 number | 2 AM | You went to bed at 2 AM on Wednesday, the day before your doctor's appointment o
+dd2973ad state 1 number | 2 AM | The doctor's appointment was on Thursday, 2023/05/24. The sleep time recorded fo
+dd2973ad recency 1 number | 2 AM | You went to bed at 2 AM on Wednesday, the day before your doctor's appointment.
+spent 0.0428
+27016adc bm25 0 number | 10% | unknown
+27016adc state 1 number | 10% | The countryside property's price is $200,000, and the planned renovation cost fo
+27016adc recency 0 number | 10% | unknown
+spent 0.0436

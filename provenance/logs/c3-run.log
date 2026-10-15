@@ -1,0 +1,17 @@
+5025383b summary 1 [True, True, True] | photography and cooking | The two hobbies that led you to join online communities are cooking and photogra
+5025383b summary1024 1 [True, True, True] | photography and cooking | The two hobbies that led you to join online communities are cooking and photogra
+5025383b state768 1 [True, True, True] | photography and cooking | The two hobbies that led you to join online communities are cooking and photogra
+spent 0.001
+09ba9854 bm25_3000 0 [False, False, False] | $50 | You will save approximately $30–$40 by taking the train instead of a taxi. A tax
+09ba9854 summary 1 [True, True, True] | $50 | You will save roughly $30–$50 by taking the train from the airport to your hotel
+09ba9854 summary1024 1 [True, True, True] | $50 | You will save roughly $30–$50 by taking the train instead of a taxi.
+09ba9854 state768 1 [True, True, True] | $50 | You will save approximately $50 by taking the train instead of a taxi, as the tr
+spent 0.0026
+85fa3a3f bm25_3000 1 [True, True, True] | $50 | The total cost is $50.  
+- New food bowl: $15  
+- Measuring cup: $5  
+- Dental c
+85fa3a3f summary 1 [True, True, True] | $50 | The new food bowl cost $15, the measuring cup cost $5, the dental chews are $10,
+85fa3a3f summary1024 1 [True, True, True] | $50 | The new food bowl cost $15, the measuring cup cost $5, the dental chews are $10 
+85fa3a3f state768 1 [True, True, True] | $50 | The total cost of the new food bowl ($15), measuring cup ($5), dental chews ($10
+spent 0.0041

@@ -1,0 +1,9 @@
+{
+  "title": "Query-time evidence synthesis over BM25 for LLM agent memory: preregistered LongMemEval-S study",
+  "upload_type": "software",
+  "description": "Code, preregistrations, cached rows and technical report. A cheap query-conditioned LLM pass over BM25 top-40 lifts LongMemEval-S multi-session accuracy from 22/57 to 27-30/57 (blind gpt-4o-mini judge); structured state not shown to beat free-form notes; more BM25 context does not help. Includes negative results.",
+  "creators": [{"name": "Chernyshuk, Bohdan", "affiliation": "Independent researcher, Ukraine"}],
+  "license": "MIT",
+  "keywords": ["llm", "memory", "rag", "longmemeval", "bm25", "preregistration"],
+  "version": "1.0.0"
+}

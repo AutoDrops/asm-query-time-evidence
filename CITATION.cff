@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Query-time evidence synthesis over BM25 for LLM agent memory: preregistered LongMemEval-S study"
+version: 1.0.0
+date-released: 2026-10-15
+license: MIT
+repository-code: "https://github.com/AutoDrops/asm-query-time-evidence"
+authors:
+  - family-names: Chernyshuk
+    given-names: Bohdan
+    affiliation: "Independent researcher, Ukraine"
+keywords: [llm, memory, rag, longmemeval, bm25, preregistration]
